@@ -1,0 +1,6234 @@
+[
+  {
+    "brand_name": "DOLIPRANE",
+    "dci": "PARACETAMOL",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE",
+    "dosage": "300MG",
+    "packaging": "B/12",
+    "registration_number": "201/03 B 046/00/25",
+    "code": "03 B 046",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "DOLIPRANE 2,4%",
+    "dci": "PARACETAMOL",
+    "form": "SUSPENSION BUVABLE SANS SUCRE EDULCOREE A LA SACCHARINE SODIQUE ET AU SORBITOL",
+    "dosage": "120MG/5ML (2,4G/100ML)",
+    "packaging": "B/01FL. DE 125ML +1 CUILLERE MESURE GRADUEE A 5ML",
+    "registration_number": "201/03 B 117/13/24",
+    "code": "03 B 117",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "DOLIPRANE 500mg",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "500MG",
+    "packaging": "B/16",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "DOLIPRANE 1000mg",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "1000MG",
+    "packaging": "B/8",
+    "popularity": 990
+  },
+  {
+    "brand_name": "XYDOL 400",
+    "dci": "IBUPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "400MG",
+    "packaging": "B/20",
+    "registration_number": "268/04 B 010/12/23",
+    "code": "04 B 010",
+    "popularity": 950
+  },
+  {
+    "brand_name": "XYDOL GYN",
+    "dci": "FLURBIPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/20",
+    "registration_number": "268/04 B 033/15/25",
+    "code": "04 B 033",
+    "popularity": 950
+  },
+  {
+    "brand_name": "XYDOL 200",
+    "dci": "IBUPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "200MG",
+    "packaging": "B/20",
+    "registration_number": "268/04 B 040/05/24",
+    "code": "04 B 040",
+    "popularity": 950
+  },
+  {
+    "brand_name": "XYDOL 600",
+    "dci": "IBUPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "600MG",
+    "packaging": "B/30",
+    "registration_number": "268/04 B 044/15/25",
+    "code": "04 B 044",
+    "popularity": 950
+  },
+  {
+    "brand_name": "XYDOL 500mg",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "500MG",
+    "packaging": "B/16",
+    "popularity": 950
+  },
+  {
+    "brand_name": "XYDOL 1000mg",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "1000MG",
+    "packaging": "B/8",
+    "popularity": 940
+  },
+  {
+    "brand_name": "DOLYC",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "500MG",
+    "packaging": "B/20",
+    "registration_number": "268/03 B 005/06/21",
+    "code": "03 B 005",
+    "popularity": 900
+  },
+  {
+    "brand_name": "ANTALGAN",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "500MG",
+    "packaging": "B/16",
+    "registration_number": "607/03 B 005/25",
+    "code": "03 B 005",
+    "popularity": 900
+  },
+  {
+    "brand_name": "COPARAMOL FORT",
+    "dci": "PARACETAMOL/CODEINE PHOSPHATE HEMIHYDRATE",
+    "form": "COMPRIME",
+    "dosage": "500MG/30MG",
+    "packaging": "B/20",
+    "registration_number": "231/03 B 028/16/25",
+    "code": "03 B 028",
+    "popularity": 900
+  },
+  {
+    "brand_name": "DOLIRHUME",
+    "dci": "PARACETAMOL/PSEUDOEPHEDRINE (SOUS FORME DE CHLORHYDRATE)",
+    "form": "COMPRIME",
+    "dosage": "500MG/30MG",
+    "packaging": "B/16",
+    "registration_number": "392/03 B 057/01/25",
+    "code": "03 B 057",
+    "popularity": 900
+  },
+  {
+    "brand_name": "SAPRAMOL",
+    "dci": "PARACETAMOL",
+    "form": "SOLUTION INJECTABLE. P. PERF. IV",
+    "dosage": "10MG/ML (500MG/50ML) (1000MG/100ML)",
+    "packaging": "FL./50ML (CAISSE DE 12 FL.) - FL./100ML (CAISSE DE 12 FL.)",
+    "registration_number": "433/03 B 067/10/22",
+    "code": "03 B 067",
+    "popularity": 900
+  },
+  {
+    "brand_name": "EFFERALGAN",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME EFFERVESSANT",
+    "dosage": "1G",
+    "packaging": "B/08",
+    "registration_number": "201/03 B 080/19/25",
+    "code": "03 B 080",
+    "popularity": 900
+  },
+  {
+    "brand_name": "PARACETOL",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "1000MG",
+    "packaging": "B/25",
+    "registration_number": "578/03 B 081/25",
+    "code": "03 B 081",
+    "popularity": 900
+  },
+  {
+    "brand_name": "ANTALGAN",
+    "dci": "PARACETAMOL",
+    "form": "COMPRIME",
+    "dosage": "1000MG",
+    "packaging": "B/08",
+    "registration_number": "607/03 B 081/25",
+    "code": "03 B 081",
+    "popularity": 900
+  },
+  {
+    "brand_name": "DI-DOLEX",
+    "dci": "PARACETAMOL/TRAMADOL CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "325MG/37,5MG",
+    "packaging": "B/20",
+    "registration_number": "268/03 F 115/11/22",
+    "code": "03 F 115",
+    "popularity": 900
+  },
+  {
+    "brand_name": "PARACETAMOL/CHLORPHENAMINE MALEATE",
+    "dci": "22 A 049",
+    "form": "GELULE",
+    "dosage": "RYNZA",
+    "packaging": "SUPPOSITOIRE VAGINALE",
+    "registration_number": "B/4 SERINGUES PRE-REMPLIE DE 1ML",
+    "code": "263/22 A 049/23",
+    "popularity": 900
+  },
+  {
+    "brand_name": "AMOXICILLINE TRIHYDRATEE (AMOXICILLINE)",
+    "dci": "13 G 045",
+    "form": "GELULE",
+    "dosage": "500MG",
+    "packaging": "B/12",
+    "registration_number": "ORNIVODA",
+    "code": "003/13 G 045/98/25",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE TRIHYDRATE EXPRIME EN AMOXICILLINE",
+    "dci": "13 G 047",
+    "form": "AZITHROMYCINE DIHYDRATEE EXPRIMEE EN AZITHROMYCINE",
+    "dosage": "GRANULE POUR SUSPENSION BUVABLE EN FLACON",
+    "packaging": "AMODEX-Gé",
+    "registration_number": "AMOXYPEN",
+    "code": "323/13 G 047/04/24",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE TRIHYDRATEE EXPRIME EN AMOXICILLINE",
+    "dci": "13 G 230",
+    "form": "PENAMOX D",
+    "dosage": "1G",
+    "packaging": "B/14",
+    "registration_number": "1000 000UI",
+    "code": "001/13 G 230/15/25",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE TRIHYDRATE EXPRIME EN AMOXICILLINE",
+    "dci": "13 G 230",
+    "form": "PENAMOX D",
+    "dosage": "1G",
+    "packaging": "B/14",
+    "registration_number": "COMPRIME DISPERSIBLE",
+    "code": "001/13 G 230/15/25",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE TRIHYDRATE E EXPRIME EN AMOXICILLINE ANHYDRE",
+    "dci": "13 G 268",
+    "form": "BIOPAMOX",
+    "dosage": "GRANULE POUR SUSPENSION BUVABLE EN SACHET",
+    "packaging": "B/08",
+    "registration_number": "323/13 G 230/04/25",
+    "code": "293/13 G 268/16/24",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE 500mg",
+    "dci": "AMOXICILLINE",
+    "form": "GELULE",
+    "dosage": "500MG",
+    "packaging": "B/12",
+    "popularity": 850
+  },
+  {
+    "brand_name": "AMOXICILLINE 1g",
+    "dci": "AMOXICILLINE",
+    "form": "COMPRIME DISPERSIBLE",
+    "dosage": "1000MG",
+    "packaging": "B/14",
+    "popularity": 840
+  },
+  {
+    "brand_name": "AUGMENTIN 1g/125mg",
+    "dci": "AMOXICILLINE / ACIDE CLAVULANIQUE",
+    "form": "POUDRE POUR SUSPENSION BUVABLE",
+    "dosage": "1G/125MG",
+    "packaging": "SACHET B/12",
+    "popularity": 800
+  },
+  {
+    "brand_name": "SPASFON",
+    "dci": "PHLOROGLUCINOL / TRIMETHYLPHLOROGLUCINOL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG/80MG",
+    "packaging": "B/30",
+    "popularity": 750
+  },
+  {
+    "brand_name": "PROFENID 100mg",
+    "dci": "KETOPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/20",
+    "popularity": 700
+  },
+  {
+    "brand_name": "ADFEN",
+    "dci": "IBUPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "400MG",
+    "packaging": "B/20",
+    "registration_number": "470/04 B 010/20/25",
+    "code": "04 B 010",
+    "popularity": 650
+  },
+  {
+    "brand_name": "ADFEN",
+    "dci": "IBUPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "200MG",
+    "packaging": "B/20",
+    "registration_number": "470/04 B 040/20/25",
+    "code": "04 B 040",
+    "popularity": 650
+  },
+  {
+    "brand_name": "ROVIL CAPS",
+    "dci": "IBUPROFENE",
+    "form": "CAPSULE MOLLE",
+    "dosage": "400MG",
+    "packaging": "B/14",
+    "registration_number": "645/04 B 082/25",
+    "code": "04 B 082",
+    "popularity": 650
+  },
+  {
+    "brand_name": "ROVIL CAPS",
+    "dci": "IBUPROFENE",
+    "form": "CAPSULE MOLLE",
+    "dosage": "200MG",
+    "packaging": "B/20",
+    "registration_number": "645/04 B 084/25",
+    "code": "04 B 084",
+    "popularity": 650
+  },
+  {
+    "brand_name": "VOLTARENE 50mg",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMPRIME ENTERIQUE",
+    "dosage": "50MG",
+    "packaging": "B/20",
+    "popularity": 600
+  },
+  {
+    "brand_name": "VENTOLINE 100mcg",
+    "dci": "SALBUTAMOL",
+    "form": "SUSPENSION POUR INHALATION",
+    "dosage": "100MCG/DOSE",
+    "packaging": "FL/200 DOSES",
+    "popularity": 550
+  },
+  {
+    "brand_name": "SOLUPRED 20mg",
+    "dci": "PREDNISOLONE",
+    "form": "COMPRIME EFFERVESCENT",
+    "dosage": "20MG",
+    "packaging": "B/20",
+    "popularity": 500
+  },
+  {
+    "brand_name": "CEFALEXINE MONOHYDRATEE EXPRIME EN CEFALEXINE",
+    "dci": "13 B 223",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "1G",
+    "packaging": "B/12",
+    "registration_number": "F L/40 ML ET PIPETTE GRADUEE",
+    "code": "039/13 B 223/18/25",
+    "popularity": 450
+  },
+  {
+    "brand_name": "CLARADINE",
+    "dci": "LORATADINE",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "1MG/ML",
+    "packaging": "FL./60ML",
+    "registration_number": "073/01 A 034/07/25",
+    "code": "01 A 034",
+    "popularity": 150
+  },
+  {
+    "brand_name": "ARTIZ",
+    "dci": "CETIRIZINE DICHLORHYDRATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/10",
+    "registration_number": "352/01 A 003/06/22",
+    "code": "01 A 003",
+    "popularity": 120
+  },
+  {
+    "brand_name": "ZETREC",
+    "dci": "CETIRIZINE DICHLORHYDRATE",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "10MG/ML",
+    "packaging": "B/FL 30ML",
+    "registration_number": "088/01 A 041/24",
+    "code": "01 A 041",
+    "popularity": 110
+  },
+  {
+    "brand_name": "LORADINE",
+    "dci": "LORATADINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/20",
+    "registration_number": "035/01 A 033/98/25",
+    "code": "01 A 033",
+    "popularity": 100
+  },
+  {
+    "brand_name": "HISTAGAN",
+    "dci": "DEXCHLORPHENIRAMINE MALEATE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2MG",
+    "packaging": "B/30",
+    "registration_number": "003/01 A 005/97/25",
+    "code": "01 A 005",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HISTAGAN",
+    "dci": "DEXCHLORPHENIRAMINE MALEATE",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "0,5MG/5ML",
+    "packaging": "FL/125ML",
+    "registration_number": "003/01 A 007/97/25",
+    "code": "01 A 007",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LORATADINE BEKER",
+    "dci": "LORATADINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "447/01 A 033/14/25",
+    "code": "01 A 033",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIFEX 120",
+    "dci": "FEXOFENADINE CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "120MG",
+    "packaging": "B/20",
+    "registration_number": "268/01 A 039/07/22",
+    "code": "01 A 039",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FASTOFEN 180",
+    "dci": "FEXOFENADINE CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "180MG",
+    "packaging": "B/20",
+    "registration_number": "492/01 A 040/15/25",
+    "code": "01 A 040",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIFEX 180",
+    "dci": "FEXOFENADINE CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "180MG",
+    "packaging": "B/20",
+    "registration_number": "268/01 A 040/07/22",
+    "code": "01 A 040",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LORADESS",
+    "dci": "DESLORATADINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/10 B/15 B/30",
+    "registration_number": "035/01 A 047/17/25",
+    "code": "01 A 047",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MEQUITAZ",
+    "dci": "MEQUITAZINE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/14",
+    "registration_number": "235/01 A 051/20/25",
+    "code": "01 A 051",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HEPTAGYL",
+    "dci": "CYPROHEPTADINE CHLORHYDRATE EXPRIME EN CYPRHOPTADINE",
+    "form": "SIROP",
+    "dosage": "2MG/5ML",
+    "packaging": "FL/125ML",
+    "registration_number": "003/01 A 053/96/25",
+    "code": "01 A 053",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVORGICA",
+    "dci": "LEVOCETIRIZINE DICHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "05 MG",
+    "packaging": "B/14 ET B/28",
+    "registration_number": "317/01 A 054/25",
+    "code": "01 A 054",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ZOLIX",
+    "dci": "LEVOCETIRIZINE DICHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "05 MG",
+    "packaging": "B/14 ET B/28",
+    "registration_number": "173/01 A 054/24",
+    "code": "01 A 054",
+    "popularity": 10
+  },
+  {
+    "brand_name": "XYRIZINE",
+    "dci": "LEVOCETIRIZINE DICHLORHYDRATE",
+    "form": "SOL. BUVABLE",
+    "dosage": "2.5 MG/5 ML",
+    "packaging": "FLACON DE 200ML",
+    "registration_number": "352/01 A 058/20",
+    "code": "01 A 058",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OXYGENE MEDICINAL GAZEUX LINDE",
+    "dci": "OXYGENE MEDICINAL GAZEUX",
+    "form": "GAZ POUR INHALATION",
+    "dosage": "PURETE ≥ 99.50%",
+    "packaging": "BOUTEILLE EN ACIER DE 50L",
+    "registration_number": "054/02 B 014/99/25",
+    "code": "02 B 014",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PROTOXYDE D'AZOTE",
+    "dci": "PROTOXYDE D'AZOTE MEDICINAL",
+    "form": "GAZ POUR INHALATION",
+    "dosage": "GAZ LIQUEFIE SOUS PRESSION\n ( PURETE ≥ 98% V/V N2O)",
+    "packaging": "BOUTEILLE EN ACIER DE 30 KG",
+    "registration_number": "054/12 B 015/99/24",
+    "code": "02 B 015",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SCANDONEST",
+    "dci": "MEPIVACAINE CHLORHYDRATE",
+    "form": "SOL.INJ A USAGE DENTAIRE",
+    "dosage": "30MG/ML",
+    "packaging": "B/50CART. DE 1,7ML",
+    "registration_number": "044/02 C 030/98/25",
+    "code": "02 C 030",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RONIUM",
+    "dci": "ROCURONIUM BROMURE",
+    "form": "SOLUTION INJECTABLE IV",
+    "dosage": "10 MG/ML",
+    "packaging": "B/10",
+    "registration_number": "001/02 D 049/17/25",
+    "code": "02 D 049",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ASPEGIC ADULTE",
+    "dci": "ACETYLSALICYLATE DE DL LYSINE EXPRIME EN ACIDE ACETYLSALICYLIQUE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET-DOSE",
+    "dosage": "1G",
+    "packaging": "B/20",
+    "registration_number": "201/03 A 069/08/25",
+    "code": "03 A 069",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLOPRAMID",
+    "dci": "METOCLOPRAMIDE CHLORHYDRATE ANHYDRE",
+    "form": "SOLUTION INJECTABLE IM/IV",
+    "dosage": "10MG/2ML",
+    "packaging": "B/50  CONTENANT 2ML DE SOLUTION",
+    "registration_number": "003/03 F 042/03/25",
+    "code": "03 F 042",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DOLTRAM",
+    "dci": "TRAMADOL CHLORHYDRATE EXPRIME EN TRAMADOL",
+    "form": "GELULE",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "003/03 F 047/09/25",
+    "code": "03 F 047",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ZODID",
+    "dci": "TRAMADOL CHLORHYDRATE EXPRIME EN TRAMADOL",
+    "form": "GELULE",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "235/03 F 047/10/25",
+    "code": "03 F 047",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VOLTUM",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMP.GASTRORESIST.",
+    "dosage": "25MG",
+    "packaging": "B/30",
+    "registration_number": "035/04 B 005/00/25",
+    "code": "04 B 005",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GEOFENAC",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMPRIME PELLICULE GASTRO-RESISTANT",
+    "dosage": "50MG",
+    "packaging": "B/20",
+    "registration_number": "304/04 B 006/04/25",
+    "code": "04 B 006",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VOLTUM",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMPRIME  GASTRO-RESISTANT",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "035/04 B 006/00/25",
+    "code": "04 B 006",
+    "popularity": 10
+  },
+  {
+    "brand_name": "KETONEED",
+    "dci": "KETOPROFENE",
+    "form": "SOLUTION INJECTABLE IM",
+    "dosage": "100MG/2ML",
+    "packaging": "B/05 AMP. DE 2ML ET B/50 AMP. DE 2ML",
+    "registration_number": "433/04 B 018/15/25",
+    "code": "04 B 018",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CELECOX",
+    "dci": "CELECOXIB",
+    "form": "GELULE",
+    "dosage": "100MG",
+    "packaging": "B/10 ET B/30",
+    "registration_number": "035/04 B 035/16/25",
+    "code": "04 B 035",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COXIBREX",
+    "dci": "CELECOXIB",
+    "form": "GELULE",
+    "dosage": "100MG",
+    "packaging": "B/20 ET B/30",
+    "registration_number": "289/04 B 035/12/22",
+    "code": "04 B 035",
+    "popularity": 10
+  },
+  {
+    "brand_name": "INICOX 100",
+    "dci": "CELECOXIB",
+    "form": "GELULE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "268/04 B 035/13/23",
+    "code": "04 B 035",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COXIBREX",
+    "dci": "CELECOXIB",
+    "form": "GELULE",
+    "dosage": "200MG",
+    "packaging": "B/10 ET B/30",
+    "registration_number": "289/04 B 036/12/22",
+    "code": "04 B 036",
+    "popularity": 10
+  },
+  {
+    "brand_name": "INICOX 200",
+    "dci": "CELECOXIB",
+    "form": "GELULE",
+    "dosage": "200MG",
+    "packaging": "B/20 ET B/12 ET B/30",
+    "registration_number": "268/04 B 036/13/23",
+    "code": "04 B 036",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DICLORENE LP 75",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "75MG",
+    "packaging": "B/30",
+    "registration_number": "268/04 B 037/23",
+    "code": "04 B 037",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EFIRAP",
+    "dci": "DICLOFENAC POTASSIUM",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "50MG",
+    "packaging": "B/20",
+    "registration_number": "173/04 B 063/22",
+    "code": "04 B 063",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CATAFENAC",
+    "dci": "DICLOFENAC POTASSIUM",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "50MG",
+    "packaging": "B/20",
+    "registration_number": "468/04 B 063/25",
+    "code": "04 B 063",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VOTREX RAPID",
+    "dci": "DICLOFENAC POTASSIQUE",
+    "form": "COMPRIME ENROBE",
+    "dosage": "50MG",
+    "packaging": "B/20",
+    "registration_number": "001/04 B 063/12/25",
+    "code": "04 B 063",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ETOFAN",
+    "dci": "ETORICOXIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "120MG",
+    "packaging": "B/30",
+    "registration_number": "352/04 B 074/18/25",
+    "code": "04 B 074",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ETOFAN",
+    "dci": "ETORICOXIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "60MG",
+    "packaging": "B/30",
+    "registration_number": "352/04 B 075/18/25",
+    "code": "04 B 075",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ETOFAN",
+    "dci": "ETORICOXIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "90MG",
+    "packaging": "B/30",
+    "registration_number": "352/04 B 076/18/25",
+    "code": "04 B 076",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LORNADO",
+    "dci": "LORNOXICAM",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "4MG",
+    "packaging": "B/20 ET B/30",
+    "registration_number": "544/04 B 082/23",
+    "code": "04 B 082",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MEGAMYLASE",
+    "dci": "ALPHA-AMYLASE",
+    "form": "SIROP",
+    "dosage": "200 U CEIP/ML",
+    "packaging": "B/01FLACON DE 125 ML",
+    "registration_number": "599/04 C 027/22",
+    "code": "04 C 027",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IMETH",
+    "dci": "METHOTREXATE",
+    "form": "SOLUTION INJECTABLE EN SERINGUE PRE-REMPLIE",
+    "dosage": "25 MG/ML",
+    "packaging": "BOITE DE 4 SERIN 10MG/0.4ML 15MG/0.6ML 20MG/0.8ML ET 25MG/1ML",
+    "registration_number": "610/05 A 028/23",
+    "code": "05 A 028",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AZORAN",
+    "dci": "AZATHIOPRINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "50MG",
+    "packaging": "B/100",
+    "registration_number": "660/05 B 043/25",
+    "code": "05 B 043",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SORAPHAL",
+    "dci": "SORAFENIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "200MG",
+    "packaging": "B/60",
+    "registration_number": "039/05 C 128/24",
+    "code": "05 C 128",
+    "popularity": 10
+  },
+  {
+    "brand_name": "XANTOS",
+    "dci": "LAPATINIB DITOSYLATE EXPRIME EN LAPATINIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/70",
+    "registration_number": "001/05 C 137/21",
+    "code": "05 C 137",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PAPPILIO",
+    "dci": "PALBOCICLIB",
+    "form": "GELULE",
+    "dosage": "75MG",
+    "packaging": "B/21",
+    "registration_number": "001/05 C 196/24",
+    "code": "05 C 196",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PAPPILIO",
+    "dci": "PALBOCICLIB",
+    "form": "GELULE",
+    "dosage": "100MG",
+    "packaging": "B/21",
+    "registration_number": "001/05 C 197/24",
+    "code": "05 C 197",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PAPPILIO",
+    "dci": "PALBOCICLIB",
+    "form": "GELULE",
+    "dosage": "125MG",
+    "packaging": "B/21",
+    "registration_number": "001/05 C 198/24",
+    "code": "05 C 198",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DULLARMA",
+    "dci": "IBRUTINIB",
+    "form": "GELULE",
+    "dosage": "140MG",
+    "packaging": "B/90",
+    "registration_number": "001/05 C 213/24",
+    "code": "05 C 213",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IBRORION",
+    "dci": "IBRUTINIB",
+    "form": "GELULE",
+    "dosage": "140MG",
+    "packaging": "B/90",
+    "registration_number": "596/05 C 213/24",
+    "code": "05 C 213",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LENVORION",
+    "dci": "LENVATINIB",
+    "form": "GELULE",
+    "dosage": "4 MG",
+    "packaging": "B/30",
+    "registration_number": "596/05 C 239/25",
+    "code": "05 C 239",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LENVORION",
+    "dci": "LENVATINIB",
+    "form": "GELULE",
+    "dosage": "4 MG",
+    "packaging": "B/30",
+    "registration_number": "596/05 C 240/25",
+    "code": "05 C 240",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ICLUSIG",
+    "dci": "PONATINIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "15 mg",
+    "packaging": "B/30",
+    "registration_number": "659/05 C 257/25",
+    "code": "05 C 257",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ICLUSIG",
+    "dci": "PONATINIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "45 mg",
+    "packaging": "B/30",
+    "registration_number": "659/05 C 258/25",
+    "code": "05 C 258",
+    "popularity": 10
+  },
+  {
+    "brand_name": "REDDITUX",
+    "dci": "RITUXIMAB",
+    "form": "SOLUTION CONCENTREE A DILUER POUR PERFUSION",
+    "dosage": "10MG/ML",
+    "packaging": "1 FLACON DE 10ML (100mg/10ml) et 1 FLACON DE 50ML (500mg/50ml)",
+    "registration_number": "596/05 D 109/21",
+    "code": "05 D 109",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RITUXIMAB-SAIDAL",
+    "dci": "RITUXIMAB",
+    "form": "SOLUTION CONCENTREE A DILUER POUR PERFUSION",
+    "dosage": "10MG/ML",
+    "packaging": "BOITE DE 01 FLACON DE 50ML (500MG/50ML) , BOITE DE 02 FLACON DE 10ML (100MG/10ML)",
+    "registration_number": "003/05 D 109/22",
+    "code": "05 D 109",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACURA",
+    "dci": "BEVACIZUMAB",
+    "form": "SOLUTION A DILUER POUR PERFUSION",
+    "dosage": "25MG/ML",
+    "packaging": "BOITE DE 1 FLACON EN  VERRE TYPE 1 DE 4ML/  ET BOITE DE 1 FLACON EN VERRE TYPE 1 DE 16 ML",
+    "registration_number": "352/05 D 134/24",
+    "code": "05 D 134",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BEVACIZUMAB-SAIDAL",
+    "dci": "BEVACIZUMAB",
+    "form": "SOLUTION A DILUER POUR PERFUSION",
+    "dosage": "25MG/ML",
+    "packaging": "BOITE DE 1 FLACON EN  VERRE TYPE 1 DE 4ML/  ET BOITE DE 1 FLACON EN VERRE TYPE 1 DE 16 ML",
+    "registration_number": "003/05 D 134/21",
+    "code": "05 D 134",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VERSAVO",
+    "dci": "BEVACIZUMAB",
+    "form": "SOLUTION A DILUER POUR PERFUSION",
+    "dosage": "25MG/ML",
+    "packaging": "BOITE DE 1 FLACON EN  VERRE TYPE 1 DE 4ML/  ET BOITE DE 1 FLACON EN VERRE TYPE 1 DE 16 ML",
+    "registration_number": "596/05 D 134/23",
+    "code": "05 D 134",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BLINCYTO",
+    "dci": "BLINATUMOMAB",
+    "form": "POUDRE LYOPHILISEE DANS UN FLACON A DOSE UNIQUE POUR LA RECONSTITUTION BLINATUMOMAB",
+    "dosage": "35µG",
+    "packaging": "B/01 FLC A DOSE UNIQUE DE BLINATUMOMAB 35 MCG POUR INJECTION ET UN FLAC EN VERRE A DOSE UNIQUE DE 10ML DE STABILISANT",
+    "registration_number": "481/05 D 216/19/24",
+    "code": "05 D 216",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SARCLISA",
+    "dci": "ISATUXIMAB",
+    "form": "SOLUTION A DILUER POUR PERFUSION IV",
+    "dosage": "20MG/ML",
+    "packaging": "B/01 FL. DE 100MG/5ML ET B/01 FL. DE 500MG/25ML",
+    "registration_number": "376/05 D 255/25",
+    "code": "05 D 255",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BESPONSA",
+    "dci": "INOTUZUMAB OZOGAMICINE",
+    "form": "POUDRE LYOPHILISEE POUR SOLUTION A DILUER POUR PERFUSION",
+    "dosage": "0,9MG",
+    "packaging": "B/01 FL MONO-DOSE",
+    "registration_number": "654/05 D 256/25",
+    "code": "05 D 256",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ZOLESTA",
+    "dci": "ACIDE ZOLEDRONIQUE MONOHYDRATEE EXPRIME EN ACIDE ZOLEDRONIQUE ANHYDRE",
+    "form": "SOLUTION INJECTABLE P/PERF",
+    "dosage": "5MG/100ML",
+    "packaging": "B/01FL DE 100ML",
+    "registration_number": "433/05 F 165/20/25",
+    "code": "05 F 165",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENDOXAN",
+    "dci": "CYCLOPHOSPHAMIDE MONOHYDRATEE EXPRIME EN CYCLOPHOSPHAMIDE",
+    "form": "POUDRE POUR SOLUTION INJECTABLE IV",
+    "dosage": "200MG/FL. DE PDRE.",
+    "packaging": "B/1FL. DE PDRE. DE CONTENANCE 20ML",
+    "registration_number": "298/05 G 009/09/25",
+    "code": "05 G 009",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENDOXAN",
+    "dci": "CYCLOPHOSPHAMIDE MONOHYDRATEE EXPRIME EN CYCLOPHOSPHAMIDE",
+    "form": "PDRE. P. SOL. INJ. IV",
+    "dosage": "500MG/FL. DE PDRE.",
+    "packaging": "B/1FL. DE PDRE. DE CONTENANCE 50ML",
+    "registration_number": "298/05 G 010/09",
+    "code": "05 G 010",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DAUNOCIN",
+    "dci": "DAUNORUBICINE CHLORHYDRATE EXPRIME EN DAUNORUBICINE",
+    "form": "PDRE.SOL.POUR PERFUSION IV",
+    "dosage": "20 MG/FL",
+    "packaging": "B/01 FL DE POUDRE",
+    "registration_number": "516/05 G 014/17/24",
+    "code": "05 G 014",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DOCETAXEL SOL IMGSA",
+    "dci": "DOCETAXEL TRIHYDRATE",
+    "form": "SOL. A DILUER P. PERF IV",
+    "dosage": "20MG/ML",
+    "packaging": "BOITE DE 01 FLACON AVEC 1 ML DE SOLUTION ( 20MG/ML)",
+    "registration_number": "556/05 G 071/25",
+    "code": "05 G 071",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DOCETAXEL SOL IMGSA",
+    "dci": "DOCETAXEL TRIHYDRATE",
+    "form": "SOL. A DILUER P. PERF IV",
+    "dosage": "80MG/4ML",
+    "packaging": "BOITE DE 1 FLACON DE 4 ML",
+    "registration_number": "556/05 G 072/25",
+    "code": "05 G 072",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CABAZITAXEL-SAIDAL",
+    "dci": "CABAZITAXEL",
+    "form": "SOL. A DILUER ET SOLVANT P./SOL. P./PERF. IV",
+    "dosage": "60MG/1,5ML (40MG/ML)",
+    "packaging": "B/01 FL. DE SOL. A DILUER + 01 FL. DE  DE SOLVANT (ETHANOL 96°+ eau pour injection)",
+    "registration_number": "003/05 G 177/25",
+    "code": "05 G 177",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEUKERAN",
+    "dci": "CHLORAMBUCIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2 MG",
+    "packaging": "B/25",
+    "registration_number": "467/05 G 188/17/25",
+    "code": "05 G 188",
+    "popularity": 10
+  },
+  {
+    "brand_name": "KYPORION",
+    "dci": "CARFILZOMIB",
+    "form": "POUDRE LYOPHILISEE POUR SOLUTION POUR PERFUSION",
+    "dosage": "60MG",
+    "packaging": "B/01 FLC DE 50 ML",
+    "registration_number": "596/05 g 210/25",
+    "code": "05 g 210",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GEMCITABINE SOL IMGSA",
+    "dci": "GEMCITABINE CHLORHYDRATE EXPRIME EN GEMCITABINE",
+    "form": "SOLUTION A DILUER POUR PERFUSION IV",
+    "dosage": "200MG/5,26ML(38MG/ML)",
+    "packaging": "B/1 FLC",
+    "registration_number": "556/05 G 245/24",
+    "code": "05 G 245",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FOSAPREPITANT-SAIDAL",
+    "dci": "FOSAPREPITANT SOUS FORME DE FOSAPREPITANT DIMEGLUMINE",
+    "form": "POUDRE POUR SOLUTION POUR PERFUSION",
+    "dosage": "150MG",
+    "packaging": "BOITE DE 01 FLACON DE 10 ML",
+    "registration_number": "003/05 K 225/25",
+    "code": "05 K 225",
+    "popularity": 10
+  },
+  {
+    "brand_name": "XETREME",
+    "dci": "APREPITANT/APREPITANT",
+    "form": "GELULE",
+    "dosage": "80MG/125MG",
+    "packaging": "BOITE DE 3 GELULE ( UNE GELULE A 125MG ET 2 GELULE A 80MG )",
+    "registration_number": "447/05 K 230/23",
+    "code": "05 K 230",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ZEJULA",
+    "dci": "NIRAPARIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/56",
+    "registration_number": "659/05 N 259/25",
+    "code": "05 N 259",
+    "popularity": 10
+  },
+  {
+    "brand_name": "STELARA",
+    "dci": "USTEKINUMAB",
+    "form": "SOLUTION INJECTABLE EN SERINGUE PRE REMPLIE SOUS CUTANE",
+    "dosage": "45 MG /0.5 ML",
+    "packaging": "BOITE D'UNE SERINGUE PRE-REMPLIE DE 0.5 ML",
+    "registration_number": "095/05 Q 243/24",
+    "code": "05 Q 243",
+    "popularity": 10
+  },
+  {
+    "brand_name": "STELARA",
+    "dci": "USTEKINUMAB",
+    "form": "SOLUTION INJECTABLE EN SERINGUE PRE REMPLIE SOUS CUTANE",
+    "dosage": "90 MG/ML",
+    "packaging": "BOITE D'UNE SERINGUE PRE-REMPLIE DE 01 ML",
+    "registration_number": "095/05 Q 244/24",
+    "code": "05 Q 244",
+    "popularity": 10
+  },
+  {
+    "brand_name": "STELARA",
+    "dci": "USTEKINUMAB",
+    "form": "SOLUTION A DILUER POUR PERFUSION IV",
+    "dosage": "130 MG",
+    "packaging": "B/01 FLACON DE 30 ML",
+    "registration_number": "095/05 Q 245/24",
+    "code": "05 Q 245",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LONSURF",
+    "dci": "TRIFLURIDINE/TRIPIRACIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "15MG/6,14MG",
+    "packaging": "B/20 ET B/60",
+    "registration_number": "040/05 R 253/25",
+    "code": "05 R 253",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LONSURF",
+    "dci": "TRIFLURIDINE/TRIPIRACIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG/8,19MG",
+    "packaging": "B/20 ET B/60",
+    "registration_number": "040/05 R 254/25",
+    "code": "05 R 254",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NINLARO",
+    "dci": "IXAZOMIB",
+    "form": "GELULE",
+    "dosage": "4MG",
+    "packaging": "B/03",
+    "registration_number": "411/05 S 263/25",
+    "code": "05 S 261",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NINLARO",
+    "dci": "IXAZOMIB",
+    "form": "GELULE",
+    "dosage": "3MG",
+    "packaging": "B/03",
+    "registration_number": "411/05 S 261/25",
+    "code": "05 S 261",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NINLARO",
+    "dci": "IXAZOMIB",
+    "form": "GELULE",
+    "dosage": "2,3MG",
+    "packaging": "B/03",
+    "registration_number": "411/05 S 261/25",
+    "code": "05 S 261",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOXEN LP",
+    "dci": "NICARDIPINE CHLORHYDRATE",
+    "form": "MICROGRANULES A LIBERATION PROLONGEE EN GELULE",
+    "dosage": "50MG",
+    "packaging": "B/60",
+    "registration_number": "541/06 B 015/96/24",
+    "code": "06 B 015",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NICARDEX",
+    "dci": "NICARDIPINE CHLORHYDRATE",
+    "form": "SOLUTION INJECTABLE IV",
+    "dosage": "1MG/ML (10MG/10ML)",
+    "packaging": "B/5 AMP DE 10ML ET  B/50 AMP DE 10ML",
+    "registration_number": "433/06 B 016/14/24",
+    "code": "06 B 016",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AMLODIPAL",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE",
+    "form": "GELULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "039/06 B 123/05/25",
+    "code": "06 B 123",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MIBRAL",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE",
+    "form": "GELULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "309/06 B 123/15/22",
+    "code": "06 B 123",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AMLODAL",
+    "dci": "AMLODIPINE SOUS  FORME BESYLATE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "318/06 B 243/15/25",
+    "code": "06 B 243",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MIBRAL",
+    "dci": "AMLODIPINE SOUS  FORME BESYLATE",
+    "form": "GELULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "309/06 B 243/15/22",
+    "code": "06 B 243",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TENSOPREL",
+    "dci": "CAPTOPRIL",
+    "form": "COMPRIME QUADRI-SECABLE",
+    "dosage": "25MG",
+    "packaging": "B/60",
+    "registration_number": "268/06 E 052/98/25",
+    "code": "06 E 052",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RAMIPRIL BEKER",
+    "dci": "RAMIPRIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2.5MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 127/14/25",
+    "code": "06 E 127",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TANATRIL",
+    "dci": "RAMIPRIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2.5MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 127/17/25",
+    "code": "06 E 127",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TRIATEC",
+    "dci": "RAMIPRIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2.5MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 127/99/24",
+    "code": "06 E 127",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TANATRIL",
+    "dci": "RAMIPRIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 128/17/25",
+    "code": "06 E 128",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MOXOTENS",
+    "dci": "MOXONIDINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "0,2MG",
+    "packaging": "B/30",
+    "registration_number": "263/06 E 143/21",
+    "code": "06 E 143",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MOXOTENS",
+    "dci": "MOXONIDINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "0,4MG",
+    "packaging": "B/30",
+    "registration_number": "263/06 E 144/21",
+    "code": "06 E 144",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RETA",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "80MG",
+    "packaging": "B/28",
+    "registration_number": "317/06 E 147/14/24",
+    "code": "06 E 147",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SARTEG",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 147/10/25",
+    "code": "06 E 147",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VALACLOR",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 147/15/25",
+    "code": "06 E 147",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VALSIS",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "80MG",
+    "packaging": "B/28",
+    "registration_number": "003/06 E 147/11/25",
+    "code": "06 E 147",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APROVEL",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 156/01/23",
+    "code": "06 E 156",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IRBEZART",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG",
+    "packaging": "B/30",
+    "registration_number": "309/06 E 156/22",
+    "code": "06 E 156",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APROVEL",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 157/01/23",
+    "code": "06 E 157",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IRBEZART",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG",
+    "packaging": "B/30",
+    "registration_number": "309/06 E 157/22",
+    "code": "06 E 157",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROTAZAR",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG",
+    "packaging": "B/30",
+    "registration_number": "195/06 E 157/25",
+    "code": "06 E 157",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO-RETA",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "317/06 E 158/16/23",
+    "code": "06 E 158",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COSARTEG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 158/10/25",
+    "code": "06 E 158",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COTAREG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG/12,5MG",
+    "packaging": "B/28",
+    "registration_number": "068/06 E 158/01/25",
+    "code": "06 E 158",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RETA 160",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG",
+    "packaging": "B/28",
+    "registration_number": "317/06 E 166/14/24",
+    "code": "06 E 166",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SARTEG",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 166/10/25",
+    "code": "06 E 166",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VALASTAN",
+    "dci": "VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 166/09/25",
+    "code": "06 E 166",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DINAZIP",
+    "dci": "LERCANIDIPINE CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "418/06 E 168/20/25",
+    "code": "06 E 168",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SARCAND",
+    "dci": "CANDESARTAN CILEXETIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "4MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 196/14/25",
+    "code": "06 E 196",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CARDAXEL BGL",
+    "dci": "CANDESARTAN CILEXETIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "8MG",
+    "packaging": "B/30",
+    "registration_number": "235/06 E 197/15/25",
+    "code": "06 E 197",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO APROSART",
+    "dci": "IRBESARTAN + HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 219/10/25",
+    "code": "06 E 219",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COAPROVEL",
+    "dci": "IRBESARTAN + HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "392/06 E 219/06/25",
+    "code": "06 E 219",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROTAZAR PLUS",
+    "dci": "IRBESARTAN + HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "195/06 E 219/25",
+    "code": "06 E 219",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO APROSART",
+    "dci": "IRBESARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 220/10/25",
+    "code": "06 E 220",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COAPROVEL",
+    "dci": "IRBESARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/12,5MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 220/06/24",
+    "code": "06 E 220",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROTAZAR PLUS",
+    "dci": "IRBESARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "195/06 E 220/25",
+    "code": "06 E 220",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EVERYL",
+    "dci": "PERINDOPRIL TER-BUTYLAMINE/INDAPAMIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2MG/0,625MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 227/14/25",
+    "code": "06 E 227",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BIEVERYL",
+    "dci": "PERINDOPRIL TER-BUTYLAMINE/INDAPAMIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "4MG/1,25MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 228/14/25",
+    "code": "06 E 228",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CARDAXEL BGL",
+    "dci": "CANDESARTAN CILEXETIL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "16MG",
+    "packaging": "B/30",
+    "registration_number": "235/06 E 234/15/25",
+    "code": "06 E 234",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SARCAND",
+    "dci": "CANDESARTAN CILEXETIL",
+    "form": "COMPRIME",
+    "dosage": "16MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 234/14/25",
+    "code": "06 E 234",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO SARTEG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 237/10/25",
+    "code": "06 E 237",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COTAREG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/12,5MG",
+    "packaging": "B/28",
+    "registration_number": "068/06 E 237/07/24",
+    "code": "06 E 237",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO-RETA",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/25MG",
+    "packaging": "B/30",
+    "registration_number": "317/06 E 238/16/23",
+    "code": "06 E 238",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COTAREG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/25MG",
+    "packaging": "B/28",
+    "registration_number": "068/06 E 238/07/23",
+    "code": "06 E 238",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COAPROVEL",
+    "dci": "IRBESARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/25MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 256/08/24",
+    "code": "06 E 256",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROTAZAR PLUS",
+    "dci": "IRBESARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/25MG",
+    "packaging": "B/30",
+    "registration_number": "195/06 E 256/25",
+    "code": "06 E 256",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE/VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG/80MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 257/20",
+    "code": "06 E 257",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE/VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG/160MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 258/20",
+    "code": "06 E 258",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE/VALSARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG/160MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 259/20",
+    "code": "06 E 259",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OLBEK",
+    "dci": "OLMESARTAN MEDOXOMIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 260/23",
+    "code": "06 E 260",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OLBEK",
+    "dci": "OLMESARTAN MEDOXOMIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 E 262/23",
+    "code": "06 E 262",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MICARDIS",
+    "dci": "TELMISARTAN",
+    "form": "COMPRIME",
+    "dosage": "40MG",
+    "packaging": "B/28",
+    "registration_number": "152/06 E 263/08/25",
+    "code": "06 E 263",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TELMISARTE",
+    "dci": "TELMISARTAN",
+    "form": "COMPRIME",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 263/17/25",
+    "code": "06 E 263",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TELMISARTE",
+    "dci": "TELMISARTAN",
+    "form": "COMPRIME",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 264/17/25",
+    "code": "06 E 264",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MICARDIS PLUS",
+    "dci": "TELMISARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "40MG/12,5MG",
+    "packaging": "B/28",
+    "registration_number": "152/06 E 265/08/23",
+    "code": "06 E 265",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TELMISARTE +",
+    "dci": "TELMISARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "40MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 265/17/25",
+    "code": "06 E 265",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MICARDIS PLUS",
+    "dci": "TELMISARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "80MG/12,5MG",
+    "packaging": "B/28",
+    "registration_number": "152/06 E 266/08/23",
+    "code": "06 E 266",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TELMISARTE+",
+    "dci": "TELMISARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "80MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 266/17/25",
+    "code": "06 E 266",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TRITAZIDE",
+    "dci": "RAMIPRIL/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "10MG/25MG",
+    "packaging": "B/28",
+    "registration_number": "392/06 E 278/10/25",
+    "code": "06 E 278",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CO SARTEG",
+    "dci": "VALSARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "320MG/25MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 307/15/25",
+    "code": "06 E 307",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APROVASC",
+    "dci": "AMLODIPINE BESILATE EXPRIME EN AMLODIPINE/IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG/300MG",
+    "packaging": "B/30",
+    "registration_number": "392/06 E 311/15/22",
+    "code": "06 E 311",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EXIRB",
+    "dci": "IRBESARTAN/AMLODIPINE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "300MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 E 312/23",
+    "code": "06 E 312",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TELMISARTE +",
+    "dci": "TELMISARTAN/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME",
+    "dosage": "80MG/25 MG",
+    "packaging": "B/30",
+    "registration_number": "035/06 E 316/17/25",
+    "code": "06 E 316",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APROVASC",
+    "dci": "IRBESARTAN/AMLODIPINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "392/06 E 318/17/24",
+    "code": "06 E 318",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COVERAM",
+    "dci": "AMLODIPINE BESILATE (AMLODIPINE)/PERINDOPRIL ARGININE (PERINDOPRIL)",
+    "form": "COMPRIME",
+    "dosage": "5MG/5MG",
+    "packaging": "B/30",
+    "registration_number": "040/06 E 319/18/25",
+    "code": "06 E 319",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRATIMA AM",
+    "dci": "AMLODIPINE BESILATE (AMLODIPINE)/PERINDOPRIL ARGININE (PERINDOPRIL)",
+    "form": "COMPRIME",
+    "dosage": "5MG/5MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 E 319/24",
+    "code": "06 E 319",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COVERAM",
+    "dci": "PERINDOPRIL ARGININE (PERINDOPRIL)/AMLODIPINE BESILATE (AMLODIPINE)",
+    "form": "COMPRIME",
+    "dosage": "10MG/5MG",
+    "packaging": "B/30",
+    "registration_number": "040/06 E 320/18/25",
+    "code": "06 E 320",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRATIMA AM",
+    "dci": "PERINDOPRIL ARGININE (PERINDOPRIL)/AMLODIPINE BESILATE (AMLODIPINE)",
+    "form": "COMPRIME",
+    "dosage": "10MG/5MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 E 320/24",
+    "code": "06 E 320",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COVERAM",
+    "dci": "PERINDOPRIL ARGININE (PERINDOPRIL)/AMLODIPINE BESILATE (AMLODIPINE)",
+    "form": "COMPRIME",
+    "dosage": "5MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "040/06 E 321/18/25",
+    "code": "06 E 321",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRATIMA AM",
+    "dci": "PERINDOPRIL ARGININE (PERINDOPRIL)/AMLODIPINE BESILATE (AMLODIPINE)",
+    "form": "COMPRIME",
+    "dosage": "5MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 E 321/24",
+    "code": "06 E 321",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COVERAM",
+    "dci": "AMLODIPINE BESILATE (AMLODIPINE)/PERINDOPRIL ARGININE (PERINDOPRIL)",
+    "form": "COMPRIME",
+    "dosage": "10MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "040/06 E 322/18/25",
+    "code": "06 E 322",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRATIMA AM",
+    "dci": "AMLODIPINE BESILATE (AMLODIPINE)/PERINDOPRIL ARGININE (PERINDOPRIL)",
+    "form": "COMPRIME",
+    "dosage": "10MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 E 322/24",
+    "code": "06 E 322",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BIPRETERAX ARGININE",
+    "dci": "PERINDOPRIL ARGININE/INDAPAMIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG/2,5MG",
+    "packaging": "PILULIRER/30",
+    "registration_number": "040/06 E 329/20/25",
+    "code": "06 E 329",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN PLUS",
+    "dci": "VALSARTAN /AMLODIPINE/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/5MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 340/23",
+    "code": "06 E 340",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN PLUS",
+    "dci": "VALSARTAN /AMLODIPINE/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160 MG/5 MG/25 MG",
+    "packaging": "BOITE DE 30",
+    "registration_number": "173/06 E 341/23",
+    "code": "06 E 341",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN PLUS",
+    "dci": "VALSARTAN/AMLODIPINE/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/10MG/12,5MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 342/23",
+    "code": "06 E 342",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOTEVAN PLUS",
+    "dci": "VALSARTAN /AMLODIPINE/HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "160MG/10MG/25MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 E 343/23",
+    "code": "06 E 343",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLOXTON",
+    "dci": "ACEBUTOLOL CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "200 MG",
+    "packaging": "B/20",
+    "registration_number": "235/06 F 067/10/25",
+    "code": "06 F 067",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SEBUTOL",
+    "dci": "ACEBUTOLOL CHLORHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "200MG",
+    "packaging": "B/30",
+    "registration_number": "268/06 F 067/06/25",
+    "code": "06 F 067",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOPROX",
+    "dci": "SUCCINATE DE METOPROLOL",
+    "form": "COMPRIME PELLICULE SECABLE A LIBERATION PROLONGEE",
+    "dosage": "200MG",
+    "packaging": "B/30",
+    "registration_number": "418/06 F 071/19/25",
+    "code": "06 F 071",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FEDICARD",
+    "dci": "PROPRANOLOL CHLORHYDRATE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "242/06 F 073/13/25",
+    "code": "06 F 073",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BIPROTENS",
+    "dci": "BISOPROLOL FUMARATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 F 162/10/25",
+    "code": "06 F 162",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CIRBESA",
+    "dci": "BISOPROLOL FUMARATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "263/06 F 162/15/25",
+    "code": "06 F 162",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DILACARD",
+    "dci": "CARVEDILOL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "6,25MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 F 208/10/25",
+    "code": "06 F 208",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DILACARD",
+    "dci": "CARVEDILOL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "25MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 F 209/10/25",
+    "code": "06 F 209",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DILACARD",
+    "dci": "CARVEDILOL",
+    "form": "COMPRIME SECABLE",
+    "dosage": "3,125MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 F 252/11",
+    "code": "06 F 252",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BISOTAB",
+    "dci": "BISOPROLOL FUMARATE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "173/06 F 267/20/25",
+    "code": "06 F 267",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ISONOL",
+    "dci": "CHLORHYDRATE D'ISOPRENALINE",
+    "form": "SOL.INJ. PERFUSION IV CONTINUE EN SC",
+    "dosage": "0,2MG/ML",
+    "packaging": "B/05 ET B/50",
+    "registration_number": "433/06 G 082/25",
+    "code": "06 G 082",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EPHEDRON",
+    "dci": "CHLORHYDRATE D'EPHEDRINE",
+    "form": "SOLUTION INJ I.V OU PERFUSION",
+    "dosage": "30MG/ML",
+    "packaging": "B/10 ET B/50 AMPS",
+    "registration_number": "433/06 G 253/25",
+    "code": "06 G 253",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SUPERSTAT PLUS",
+    "dci": "ROSUVASTATINE CALCIUM/EZETIMIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 M 353/25",
+    "code": "06 G 353",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FUROLIX",
+    "dci": "FUROSEMIDE",
+    "form": "SOLUTION INJECTABLE IM/IV",
+    "dosage": "20MG/2ML",
+    "packaging": "B/05 AMP ET B/50. DE 2ML",
+    "registration_number": "317/06 H 087/21",
+    "code": "06 H 087",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FUROZAL",
+    "dci": "FUROSEMIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "40MG",
+    "packaging": "B/20",
+    "registration_number": "003/06 H 090/96/25",
+    "code": "06 H 090",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DOXIUM",
+    "dci": "CALCIUM DEBESILATE MONOHYDRATE",
+    "form": "GELULE",
+    "dosage": "500 MG",
+    "packaging": "B/30",
+    "registration_number": "426/06 K 340/23",
+    "code": "06 K 340",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DOXIUM",
+    "dci": "CALCIUM DOBESILATE MONOHYDRATE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "1000 MG",
+    "packaging": "B/30",
+    "registration_number": "426/06 K 341/23",
+    "code": "06 K 341",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUVASTINE 40 MG",
+    "dci": "FLUVASTATINE SODIQUE EXPRIME EN FLUVASTATINE",
+    "form": "GELULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "309/06 M 151/14/24",
+    "code": "06 M 151",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TULIP",
+    "dci": "ATORVASTATINE CALCIUM TRIHYDRATE EXPRIME EN ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "050/06 M 198/19/25",
+    "code": "06 M 198",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TAHOR",
+    "dci": "ATORVASTATINE CALCIQUE TRIHYDRATE EXPRIME EN ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG",
+    "packaging": "B/28 ET B/98",
+    "registration_number": "595/06 M 225/07/25",
+    "code": "06 M 225",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TULIP",
+    "dci": "ATORVASTATINE CALCIQUE TRIHYDRATE EXPRIME EN ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG",
+    "packaging": "B/30",
+    "registration_number": "050/06 M 225/19/25",
+    "code": "06 M 225",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ATORIN",
+    "dci": "ATORVASTATINE CALCIQUE TRIHYDRATE EXPRIME EN ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "447/06 M 232/11/21",
+    "code": "06 M 232",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TULIP",
+    "dci": "ATORVASTATINE CALCIQUE TRIHYDRATE EXPRIME EN ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "050/06 M 232/19/25",
+    "code": "06 M 232",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CRESTOR",
+    "dci": "ROSUVASTATINE SOUS FORME DE ROSUVASTATINE CALCIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "256/06 M 269/08/24",
+    "code": "06 M 269",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROSUVIA 10",
+    "dci": "ROSUVASTATINE SOUS FORME DE ROSUVASTATINE CALCIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "268/06 M 269/23",
+    "code": "06 M 269",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROSUVIA 20",
+    "dci": "ROSUVASTATINE SOUS FORME DE ROSUVASTATINE CALCIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG",
+    "packaging": "B/30",
+    "registration_number": "268/06 M 270/23",
+    "code": "06 M 270",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CRESTOR",
+    "dci": "ROSUVASTATINE SOUS FORME DE ROSUVASTATINE CALCIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "256/06 M 296/12/24",
+    "code": "06 M 296",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROSUVIA 5",
+    "dci": "ROSUVASTATINE SOUS FORME DE ROSUVASTATINE CALCIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "268/06 M 296/23",
+    "code": "06 M 296",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CRESOVAST",
+    "dci": "ROSUVASTATINE CALCIQUE EXPRIME EN ROSUVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "352/06 M 328/20/25",
+    "code": "06 M 328",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SUPERSTAT PLUS",
+    "dci": "ROSUVASTATIN CALCIUM/EZETIMIB",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG/10MG",
+    "packaging": "B/30",
+    "registration_number": "001/06 M 354/25",
+    "code": "06 M 354",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIFUDAL",
+    "dci": "ACIDE FUSIDIQUE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0,02",
+    "packaging": "T/15G",
+    "registration_number": "003/07 C 017/08/25",
+    "code": "07 C 017",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TETRACNE",
+    "dci": "MINOCYCLINE HYDROCHLORIDE DIHYDRATE",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "65MG",
+    "packaging": "B/30",
+    "registration_number": "001/07 C 193/25",
+    "code": "07 C 193",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TETRACNE",
+    "dci": "MINOCYCLINE HYDROCHLORIDE DIHYDRATE",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "registration_number": "001/07 C 194/25",
+    "code": "07 C 194",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TETRACNE",
+    "dci": "MINOCYCLINE HYDROCHLORIDE DIHYDRATE",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "105MG",
+    "packaging": "B/30",
+    "registration_number": "001/07 C 195/25",
+    "code": "07 C 195",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ECONAZ",
+    "dci": "ECONAZOLE NITRATE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0,01",
+    "packaging": "T/30G",
+    "registration_number": "235/07 D 025/25",
+    "code": "07 D 025",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SKINOZOL",
+    "dci": "KETOCONAZOLE",
+    "form": "GEL MOUSSANT EN SACHET DOSE",
+    "dosage": "0,02",
+    "packaging": "B/08 SACHET- DOSE DE 6G",
+    "registration_number": "263/07 D 092/25",
+    "code": "07 D 092",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ONYCAL",
+    "dci": "CHLORHYDRATE DE TERBINAFINE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0.01",
+    "packaging": "T/15G",
+    "registration_number": "309/07 D 094/21",
+    "code": "07 D 094",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TERBIL",
+    "dci": "CHLORHYDRATE DE TERBINAFINE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0.01",
+    "packaging": "T/15G",
+    "registration_number": "418/07 D 094/08/25",
+    "code": "07 D 094",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TERBINAN",
+    "dci": "CHLORHYDRATE DE TERBINAFINE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0.01",
+    "packaging": "T/15G",
+    "registration_number": "263/07 D 094/15/24",
+    "code": "07 D 094",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DERMAZOLE",
+    "dci": "SERTACONAZOLE NITRATE",
+    "form": "CREME DERMIQUE",
+    "dosage": "0.02",
+    "packaging": "B/TUBE DE 20G",
+    "registration_number": "088/07 D 108/20",
+    "code": "07 D 108",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VAVO SHAMPOO",
+    "dci": "KETOCONAZOLE",
+    "form": "SHAMPOING",
+    "dosage": "0,02",
+    "packaging": "FL/100ML",
+    "registration_number": "173/07 D 141/07/22",
+    "code": "07 D 141",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRURAX",
+    "dci": "CROTAMITON",
+    "form": "CREME DERMIQUE",
+    "dosage": "0.1",
+    "packaging": "TUBE DE 40G",
+    "registration_number": "003/07 G 036/10/25",
+    "code": "07 G 036",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BETAMETHASONE BR",
+    "dci": "BETAMETHASONE DIPROPIONATE EXPRIMEE EN BETAMETHASONE",
+    "form": "POMMADE DERMIQUE",
+    "dosage": "0.05%",
+    "packaging": "T/15G",
+    "registration_number": "378/07 H 039/22",
+    "code": "07 H 039",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BETAMETHASONE BR",
+    "dci": "BETAMETHASONE VALERATE",
+    "form": "POMMADE DERMIQUE",
+    "dosage": "0,001",
+    "packaging": "T/15G",
+    "registration_number": "378/07 H 165/22",
+    "code": "07 H 165",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ISOMEDINE",
+    "dci": "HEXAMIDINE",
+    "form": "SOL DERMIQUE",
+    "dosage": "0.1%",
+    "packaging": "FLACON DE 50ML",
+    "registration_number": "073/07 P 071/99/25",
+    "code": "07 P 071",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BETADERMINE MOUSSANT 4%",
+    "dci": "POLYVIDONE IODEE",
+    "form": "SOLUTION POUR APPLICATION CUTANEE",
+    "dosage": "0.04",
+    "packaging": "FL/125ML ET FL/1000ML",
+    "registration_number": "314/07 P 076/25",
+    "code": "07 P 076",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DAIVOBET",
+    "dci": "CALCIPOTRIOL SOUS FORME DE CALCIPOTRIOL HYDRATE/BETAMETHASONE SOUS FORME DE DIPROOIONATE DE BETAMETHASONE",
+    "form": "POMMADE",
+    "dosage": "50µG/0,5MG/G",
+    "packaging": "T/60G",
+    "registration_number": "083/07 S 152/08/25",
+    "code": "07 S 152",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLARISCAN",
+    "dci": "ACIDE GADOTERIQUE",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "0.5MMOLE/ML",
+    "packaging": "B/01 FL OU DE B/10 FL (10ML - 15ML - 20ML)",
+    "registration_number": "212/08 A 002/23",
+    "code": "08 A 002",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VISIPAQUE",
+    "dci": "IODIXANOL",
+    "form": "SOL.INJ.",
+    "dosage": "270mg I/ml",
+    "packaging": "B/1FL 50 ml ET B/10FL 50ml ET B/1FL 100ml ET B/10 FL 100ml",
+    "registration_number": "212/08 C 070/25",
+    "code": "08 C 070",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VISIPAQUE",
+    "dci": "IODIXANOL",
+    "form": "SOL.INJ.",
+    "dosage": "320mg I/ml",
+    "packaging": "B/1FL 50 ml ET B/10FL 50ml ET B/1FL 100ml ET B/10 FL 100ml",
+    "registration_number": "212/08 C 071/25",
+    "code": "08 C 071",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MAMOZOL",
+    "dci": "LETROZOLE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "B/30",
+    "registration_number": "630/09 A 120/25",
+    "code": "09 A 120",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LETRAGEN",
+    "dci": "LETROZOLE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "B/30",
+    "registration_number": "352/09 A 120/25",
+    "code": "09 A 120",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LIFUNOR",
+    "dci": "LETROZOLE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "B/30",
+    "registration_number": "001/09 A 120/21",
+    "code": "09 A 120",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYCOSONE",
+    "dci": "HYDROCORTISONE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "304/09 H 028/04/25",
+    "code": "09 H 028",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PRECORTYL",
+    "dci": "PREDNISONE",
+    "form": "COMPRIME",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "003/09 H 038/97/25",
+    "code": "09 H 038",
+    "popularity": 10
+  },
+  {
+    "brand_name": "KORTIKAN 20",
+    "dci": "PREDNISOLONE SOUS FORME METASULFOBENZOATE SODIQUE",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "20MG",
+    "packaging": "B/20",
+    "registration_number": "518/09 H 144/18/23",
+    "code": "09 H 144",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CORTIDAL",
+    "dci": "PREDNISOLONE",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "15MG/5ML",
+    "packaging": "FL/120ML",
+    "registration_number": "318/09 H 178/25",
+    "code": "09 H 178",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MINIRIN® MELT",
+    "dci": "DESMOPRESSINE",
+    "form": "®",
+    "dosage": "LYOPH. ORAL SUBLINGUAL",
+    "packaging": "B/30",
+    "registration_number": "275/09 J 170/12/25",
+    "code": "09 J 170",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOTHYROXINE SODIQUE",
+    "dci": "09 K 056",
+    "form": "COMPRIME SECABLE",
+    "dosage": "LEVOTIRON",
+    "packaging": "50µG",
+    "registration_number": "60µG/LYOPH.",
+    "code": "177/09 K 056/18/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOTHYROXINE SODIQUE",
+    "dci": "09 K 056",
+    "form": "COMPRIME SECABLE",
+    "dosage": "09 K 057",
+    "packaging": "50µG",
+    "registration_number": "B/100",
+    "code": "177/09 K 057/18/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOTHYROXINE SODIQUE",
+    "dci": "09 K 056",
+    "form": "COMPRIME SECABLE",
+    "dosage": "09 K 150",
+    "packaging": "50µG",
+    "registration_number": "100µG",
+    "code": "177/09 K 150/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOTHYROXINE SODIQUE",
+    "dci": "09 K 056",
+    "form": "COMPRIME SECABLE",
+    "dosage": "09 K 151",
+    "packaging": "50µG",
+    "registration_number": "25µG",
+    "code": "177/09 K 151/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DYDROGESTERONE MICRONISEE",
+    "dci": "09 N 060",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/10",
+    "registration_number": "75µG",
+    "code": "285/09 N 060/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PROGESTERONE",
+    "dci": "09 N 186",
+    "form": "GESTOPHIL",
+    "dosage": "400MG",
+    "packaging": "SUPPOSITOIRE VAGINALE",
+    "registration_number": "DYDROGYN",
+    "code": "224/09 N 186/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OCTREOTIDE ACETATE",
+    "dci": "09 P 109",
+    "form": "OCTREOTIDE BIOINDUSTRIA L.I.M",
+    "dosage": "SOLUTION INJECTABLE POUR PERFUSION IV ET S/C",
+    "packaging": "0,1MG/ML",
+    "registration_number": "B/15",
+    "code": "505/09 P 109/16/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OCTREOTIDE ACETATE",
+    "dci": "09 P 109",
+    "form": "OCTREOTIDE BIOINDUSTRIA L.I.M",
+    "dosage": "09 P 110",
+    "packaging": "0,1MG/ML",
+    "registration_number": "B/10 AMP DE 1ML",
+    "code": "505/09 P 110/16/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CINACALCET CHLORHYDRATE (CINACALCET)",
+    "dci": "09 S 171",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "ENDOLET",
+    "packaging": "B/28",
+    "registration_number": "0,5MG/ML",
+    "code": "173/09 S 171/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CINACALCET CHLORHYDRATE (CINACALCET)",
+    "dci": "09 S 171",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "60MG",
+    "packaging": "B/28",
+    "registration_number": "30MG",
+    "code": "173/09 S 172/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OMEPRAZOLE",
+    "dci": "10 A 001",
+    "form": "OMEPRAZOLE MM",
+    "dosage": "20MG",
+    "packaging": "B/14 ET B/28",
+    "registration_number": "09 S 172",
+    "code": "470/10 A 001/12/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "361/10 A 001/20/25",
+    "dci": "10 A 001",
+    "form": "OMEPRAZOLE MM",
+    "dosage": "20MG",
+    "packaging": "SUPPOSITOIRE VAGINALE",
+    "registration_number": "GELULE A MICRO-GRANULES GASTRO-RESISTANTS",
+    "code": "470/10 A 001/12/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "268/10 A 001/98/24",
+    "dci": "10 A 001",
+    "form": "OMEPRAZOLE MM",
+    "dosage": "20MG",
+    "packaging": "B/14 ET B/28",
+    "registration_number": "OZOL",
+    "code": "470/10 A 001/12/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FAMOTIDINE",
+    "dci": "10 A 168",
+    "form": "COMPRIME",
+    "dosage": "40MG",
+    "packaging": "B/20",
+    "registration_number": "ZIMOR",
+    "code": "268/10 A 168/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "10 A 174",
+    "dci": "10 A 168",
+    "form": "COMPRIME",
+    "dosage": "20MG",
+    "packaging": "B/20",
+    "registration_number": "FAMOTIDINE MABO 40",
+    "code": "268/10 A 174/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ESOMEPRAZOLE MAGNESIUM TRIHYDRATE EXPRIME EN ESOMEPRAZOLE",
+    "dci": "10 A 180",
+    "form": "MESOPRAL",
+    "dosage": "20MG",
+    "packaging": "B/14",
+    "registration_number": "FAMOTIDINE MABO 20",
+    "code": "003/10 A 180/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "10 A 222",
+    "dci": "10 A 180",
+    "form": "INEXIUM",
+    "dosage": "20MG",
+    "packaging": "B/14",
+    "registration_number": "MICROGRANULES GASTRO-RESISTANTS EN GELULE",
+    "code": "256/10 A 222/08/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYDROXYDE D'ALUMINIUM/HYDROXYDE DE MAGNESIUM",
+    "dci": "10 B 010",
+    "form": "SAILOX",
+    "dosage": "SUSPENSION BUVABLE",
+    "packaging": "3,50G/4,00G/100ML",
+    "registration_number": "COMPRIME GASTRO-RESISTANT",
+    "code": "003/10 B 010/06/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DIOSMECTITE",
+    "dci": "10 B 015",
+    "form": "SMECTA FRAISE",
+    "dosage": "POUDRE POUR SUSPENSION BUVABLE EN SACHET DOSE",
+    "packaging": "3G/SACHET",
+    "registration_number": "FL/250ML",
+    "code": "662/10 B 015/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "662/10 B 015/97/24",
+    "dci": "10 B 015",
+    "form": "SMECTA FRAISE",
+    "dosage": "POUDRE POUR SUSPENSION BUVABLE EN SACHET DOSE",
+    "packaging": "3G/SACHET",
+    "registration_number": "B/30 SACHETS",
+    "code": "662/10 B 015/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "268/10 B 015/15/25",
+    "dci": "10 B 015",
+    "form": "SMECTA FRAISE",
+    "dosage": "POUDRE POUR SUSPENSION BUVABLE EN SACHET DOSE",
+    "packaging": "3G/SACHET",
+    "registration_number": "SMECTA ORANGE-VANILLE",
+    "code": "662/10 B 015/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MONTMORILLONITE BEIDELLITIQUE",
+    "dci": "10 B 088",
+    "form": "BEDELIX",
+    "dosage": "POUDRE ORALE EN SACHET",
+    "packaging": "B/30",
+    "registration_number": "SMEDYL",
+    "code": "662/10 B 088/97/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHLOROGLUCINOL DIHYDRATE/SIMETICONE",
+    "dci": "10 B 119",
+    "form": "GELULE",
+    "dosage": "80MG/125MG",
+    "packaging": "B/60",
+    "registration_number": "3G",
+    "code": "418/10 B 119/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHLOROGLUCINOL DIHYDRATE/ SIMETICONE",
+    "dci": "231/10 B 119/17/25",
+    "form": "GELULE",
+    "dosage": "80MG/125MG",
+    "packaging": "B/60",
+    "registration_number": "METEOLAX",
+    "code": "418/10 B 119/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "10 B 119",
+    "dci": "231/10 B 119/17/25",
+    "form": "GELULE",
+    "dosage": "80MG/125MG",
+    "packaging": "B/60",
+    "registration_number": "SIMEXANE",
+    "code": "571/10 B 119/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CALCIUM CARBONATE/MAGNESIUM CARBONATE LOURD",
+    "dci": "10 B 166",
+    "form": "RENNIE",
+    "dosage": "COMPRIME A CROQUER",
+    "packaging": "680MG/80MG",
+    "registration_number": "FLOXANE",
+    "code": "657/10 B 166/07/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NIFUROXAZIDE",
+    "dci": "10 C 017",
+    "form": "GELULE",
+    "dosage": "200MG",
+    "packaging": "B/28",
+    "registration_number": "B/48",
+    "code": "235/10 C 017/08/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MEBEVERINE CHLORHYDRATE",
+    "dci": "10 E 035",
+    "form": "COMPRIME ENROBE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "XEFURYL",
+    "code": "003/10 E 035/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHLOROGLUCINOL DIHYDRATE",
+    "dci": "10 E 108",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "80MG",
+    "packaging": "SPACINOL",
+    "registration_number": "MEBEVERINE-SAIDAL",
+    "code": "309/10 E 108/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "304/10 E 108/25",
+    "dci": "10 E 108",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "80MG",
+    "packaging": "B/10",
+    "registration_number": "B/10 ET B/20",
+    "code": "309/10 E 108/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALVERINE/SIMETICONE",
+    "dci": "10 E 128",
+    "form": "CAPSULE MOLLE",
+    "dosage": "ROVASPASMYL",
+    "packaging": "B/20",
+    "registration_number": "SPASGEN",
+    "code": "645/10 E 128/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "304/10 E 108/25",
+    "dci": "10 E 108",
+    "form": "10 E 198",
+    "dosage": "SOLUTION INJECTABLE IV /IM",
+    "packaging": "40MG/4ML",
+    "registration_number": "60MG/300MG",
+    "code": "304/10 E 198/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHLOROGLUCINOL DIHYDRATE",
+    "dci": "10 E 108",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "160MG",
+    "packaging": "SPACINOL",
+    "registration_number": "B/10 ET B50  AMPOULES DE 4ML",
+    "code": "309/10 E 207/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "235/10 E 207/25",
+    "dci": "10 E 108",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "PHLOROGLUCINOL  GBL",
+    "packaging": "B/10",
+    "registration_number": "10 E 207",
+    "code": "309/10 E 207/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METOCLOPRAMIDE CHLORHYDRATE MONOHYDRATE (CHLORHYDRATE DE METOCLOPRAMIDE)",
+    "dci": "10 F 042",
+    "form": "SOLUTION INJECTABLE IM/IV",
+    "dosage": "10MG/2ML",
+    "packaging": "MODENUM",
+    "registration_number": "160 MG",
+    "code": "433/10 F 042/15/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLOPRAMID",
+    "dci": "003/10 F 042/03/25",
+    "form": "SOLUTION INJECTABLE IM/IV",
+    "dosage": "10MG/2ML",
+    "packaging": "B/05 ET B/50",
+    "registration_number": "B/10 ET B/50",
+    "code": "433/10 F 042/15/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOPERAMIDE CHLORHYDRATE",
+    "dci": "10 H 056",
+    "form": "GELULE",
+    "dosage": "2MG",
+    "packaging": "B/20",
+    "registration_number": "METOCLOPRAMIDE CHLORHYDRATE",
+    "code": "418/10 H 056/08/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/10 H 056/07/25",
+    "dci": "10 H 056",
+    "form": "GELULE",
+    "dosage": "2MG",
+    "packaging": "B/20",
+    "registration_number": "DIARYL",
+    "code": "418/10 H 056/08/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RACECADOTRIL",
+    "dci": "10 H 177",
+    "form": "DIARFIL",
+    "dosage": "10MG",
+    "packaging": "PDRE ORALE EN SACHET DOSE",
+    "registration_number": "DIMEPRA",
+    "code": "289/10 H 177/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RACECADOTRIL",
+    "dci": "10 H 177",
+    "form": "10 H 178",
+    "dosage": "ENDOLET",
+    "packaging": "B/30",
+    "registration_number": "B/16 SACHETS",
+    "code": "289/10 H 178/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOPERAMIDE CHLORHYDRATE/SIMETICONE",
+    "dci": "10 H 221",
+    "form": "COMPRIME",
+    "dosage": "ADIQRIX DUO 2/125 mg",
+    "packaging": "B/10",
+    "registration_number": "PDRE. ORALE EN SACHET DOSE",
+    "code": "231/10 H 221/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MACROGOL 4000 (OU PEG=POLYETHYLENE GLYCOL 4000)",
+    "dci": "10 L 098",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE",
+    "dosage": "FORLAX",
+    "packaging": "B/20",
+    "registration_number": "2MG/125MG",
+    "code": "662/10 L 098/98/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "235/10 L 098/19/25",
+    "dci": "10 L 098",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE",
+    "dosage": "FORLAX",
+    "packaging": "B/20",
+    "registration_number": "10G",
+    "code": "662/10 L 098/98/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BISACODYL",
+    "dci": "10 L 185",
+    "form": "LAXADYL",
+    "dosage": "SUPPOSITOIRE",
+    "packaging": "5 MG",
+    "registration_number": "PROLAX",
+    "code": "231/10 L 185/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "10 L 189",
+    "dci": "10 L 098",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE",
+    "dosage": "FORLAX 4G",
+    "packaging": "B/20",
+    "registration_number": "BOITE DE 06",
+    "code": "662/10 L 189/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIDE URSODESOXYCHOLIQUE",
+    "dci": "10 R 101",
+    "form": "COMPRIME",
+    "dosage": "200MG",
+    "packaging": "B/30",
+    "registration_number": "4G",
+    "code": "321/10 R 101/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "544/10 R 101/22",
+    "dci": "10 R 101",
+    "form": "GELULE",
+    "dosage": "200MG",
+    "packaging": "URSA",
+    "registration_number": "TIALYZ",
+    "code": "321/10 R 101/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "11 A 001",
+    "dci": "ECONAZOLE NITRATE",
+    "form": "ECOGYNAN",
+    "dosage": "150MG",
+    "packaging": "OVULE",
+    "registration_number": "B/30 ET B/90",
+    "code": "263/11 A 001/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "POLICRESULEN",
+    "dci": "11 A 096",
+    "form": "RESULEN",
+    "dosage": "90MG",
+    "packaging": "B/10",
+    "registration_number": "B/03",
+    "code": "224/11 A 096/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NITRATE DE FENTICONAZOLE",
+    "dci": "11 A 511",
+    "form": "FENOMIX",
+    "dosage": "600MG",
+    "packaging": "OVULE GYNECOLOGIQUE",
+    "registration_number": "OVULE VAGINALE",
+    "code": "231/11 A 511/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DROSPIRONE/ETHINYLES TRADIOL",
+    "dci": "11 H 078",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "LYANA",
+    "packaging": "B/21",
+    "registration_number": "B/01",
+    "code": "285/11 H 078/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "11 K 097",
+    "dci": "POLYVIDONE IODEE",
+    "form": "BETADERMINE GYNECOLOGIQUE 10%",
+    "dosage": "0.1",
+    "packaging": "SOLUTION ANTISEPTIQUE VAGINALE",
+    "registration_number": "3MG/0,03MG",
+    "code": "314/11 K 097/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DIENOGEST",
+    "dci": "11 P 086",
+    "form": "COMPRIME",
+    "dosage": "2MG",
+    "packaging": "B/28",
+    "registration_number": "FL/120ML",
+    "code": "169/11 P 086/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIDE ACETYLSALICYLIQUE",
+    "dci": "12 A 131",
+    "form": "GELULE",
+    "dosage": "100MG",
+    "packaging": "URSA",
+    "registration_number": "DIMETRUM",
+    "code": "263/12 A 131/07/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APIXABAN",
+    "dci": "12 A 193",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "APIXABEK",
+    "registration_number": "ASPIRINE CARDIO",
+    "code": "447/12 A 193/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "001/12 A 193/23",
+    "dci": "12 A 193",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "B/20 ET B/60",
+    "registration_number": "B/30 ET B/60",
+    "code": "447/12 A 193/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "268/12 A 193/25",
+    "dci": "12 A 193",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2,5MG",
+    "packaging": "B/60",
+    "registration_number": "APIXAR",
+    "code": "447/12 A 193/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "APIXABAN",
+    "dci": "12 A 193",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "SUPPOSITOIRE",
+    "packaging": "APIXABEK",
+    "registration_number": "INIBIX 2.5",
+    "code": "447/12 A 200/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "268/12 A 200/25",
+    "dci": "12 A 193",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "SUPPOSITOIRE",
+    "packaging": "B/60",
+    "registration_number": "12 A 200",
+    "code": "447/12 A 200/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENOXAPARINE SODIQUE",
+    "dci": "12 B 081",
+    "form": "VARENOX",
+    "dosage": "SOLUTION INJECTABLE SC. ET INTRAVASCULAIRE EN SERING. PREREMPL.",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "INIBIX 5",
+    "code": "433/12 B 081/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 B 082",
+    "dci": "12 B 081",
+    "form": "THERANOX",
+    "dosage": "SOLUTION INJECTABLE SC ET INTRAVASCULAIRE EN SERING. PREREMPL.",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "B/02 SERINGUES",
+    "code": "543/12 B 082/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENOXAPARINE SODIQUE",
+    "dci": "12 B 081",
+    "form": "THERANOX",
+    "dosage": "SOLUTION INJECTABLE SC ET INTRAVASCULAIRE EN SERING. PREREMPL.",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "4000 UI/0,4ML",
+    "code": "543/12 B 082/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 B 082",
+    "dci": "12 B 081",
+    "form": "THERANOX",
+    "dosage": "12 B 083",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "433/12 B 082/20/25",
+    "code": "543/12 B 083/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENOXAPARINE SODIQUE",
+    "dci": "12 B 081",
+    "form": "THERANOX",
+    "dosage": "12 B 083",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "6000 UI/0,6ML",
+    "code": "543/12 B 083/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ENOXAPARINE SODIQUE",
+    "dci": "12 B 081",
+    "form": "VARENOX",
+    "dosage": "12 B 084",
+    "packaging": "2000 UI/0,2ML",
+    "registration_number": "433/12 B 083/20/25",
+    "code": "433/12 B 084/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TINZAPARINE SODIQUE",
+    "dci": "12 B 097",
+    "form": "INNOHEP",
+    "dosage": "SOLUTION INJECTABLE SOUS-CUTANEE EN SERINGUE PRE REMLIE",
+    "packaging": "2500UI ANTI XA/0,25ML",
+    "registration_number": "8000UI/0,8ML",
+    "code": "083/12 B 097/03/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TINZAPARINE SODIQUE",
+    "dci": "12 B 097",
+    "form": "INNOHEP",
+    "dosage": "12 B 098",
+    "packaging": "3500UI ANTI-XA/0,35ML",
+    "registration_number": "B/02 SERING. PREREMPL. DE 0,25ML AVEC SYSTÈME DE SECURITE D'AIGUILLE",
+    "code": "083/12 B 098/03/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TINZAPARINE SODIQUE",
+    "dci": "12 B 099",
+    "form": "INNOHEP",
+    "dosage": "TINZAPARINE SODIQUE (HBPM)",
+    "packaging": "4 500UI ANTI-XA/0.45ML",
+    "registration_number": "B/02 SERING. PREREMPL. DE 0,35ML AVEC SYSTÈME DE SECURITE D'AIGUILLE ET B/10 SERING. PREREMPL. DE 0,35ML AVEC SYSTÈME DE SECURITE D'AIGUILLE",
+    "code": "083/12 B 099/03/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIDE FOLIQUE",
+    "dci": "12 E 020",
+    "form": "COMPRIME",
+    "dosage": "5MG",
+    "packaging": "B/60",
+    "registration_number": "B/02 SERING. PREREMPL. DE 0,45ML AVEC SYSTÈME DE SECURITE D'AIGUILLE ET B/10 SERING. PREREMPL. DE 0,45ML AVEC SYSTÈME DE SECURITE D'AIGUILLE",
+    "code": "470/12 E 020/13/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "003/12 E 020/97/25",
+    "dci": "12 E 020",
+    "form": "COMPRIME",
+    "dosage": "5MG",
+    "packaging": "B/60",
+    "registration_number": "FONITRA",
+    "code": "470/12 E 020/13/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYDROXYDE FERRIQUE POLYMALTOSE EXPRIME EN FER FERRIQUE",
+    "dci": "12 E 106",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "TRIFER",
+    "packaging": "100MG DE FER ELEMENTAIRE/5ML",
+    "registration_number": "ZANITRA",
+    "code": "426/12 E 106/01/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 E 109",
+    "dci": "12 E 106",
+    "form": "SIROP",
+    "dosage": "CAREFER",
+    "packaging": "10MG/ML (50MG/5ML)",
+    "registration_number": "B/10FL. DE 5ML",
+    "code": "235/12 E 109/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "426/12 E 109/08/24",
+    "dci": "12 E 106",
+    "form": "SIROP",
+    "dosage": "CAREFER",
+    "packaging": "SELOFER-50",
+    "registration_number": "B/01 FLC DE 100ML",
+    "code": "235/12 E 109/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYDROXYDE FERRIQUE POLYMALTOSE EXPRIME EN FER FERRIQUE/ACIDE FOLIQUE",
+    "dci": "12 E 133",
+    "form": "SELOFER FOL",
+    "dosage": "COMPRIME A SUCER",
+    "packaging": "B/30",
+    "registration_number": "B/01 FLC DE 150ML + PIPETTE GRADUEE",
+    "code": "426/12 E 133/13/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "177/12 E 133/07/23",
+    "dci": "12 E 133",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "COMPRIME A SUCER",
+    "packaging": "B/30",
+    "registration_number": "100MG/0,35MG",
+    "code": "426/12 E 133/13/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 E 134",
+    "dci": "12 E 106",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "FERRUM HAUSMANN GOUTTES",
+    "packaging": "50MG/ML",
+    "registration_number": "TRIFER FOL",
+    "code": "177/12 E 134/14/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COMPLEXE D'HYDROXIDE FERRIQUE-SACCHAROSE",
+    "dci": "12 E 135",
+    "form": "RAZIFER",
+    "dosage": "SOLUTION INJECTABLE. PERF. IV",
+    "packaging": "20MG/ML (100MG/5ML)",
+    "registration_number": "B/01FL.COMPT. GTTES DE 30ML",
+    "code": "433/12 E 135/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "COMPLEXE HYDROXYDE FERRIQUE POLYMALTOSE EXPRIME EN FER FERRIQUE",
+    "dci": "12 E 152",
+    "form": "SIROP",
+    "dosage": "SELOFER-100",
+    "packaging": "100MG/5ML",
+    "registration_number": "B/05 AMP DE 5ML",
+    "code": "426/12 E 152/08/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CARBOXYMALTOSE FERRIQUE EXPRIME EN FER",
+    "dci": "12 E 199",
+    "form": "FERINJECT",
+    "dosage": "SOLUTION INJECTABLE P/PERF IV OU P/INJ DS DIALYSEUR",
+    "packaging": "50 MG/ML",
+    "registration_number": "B/01 FLC DE 150ML+01 CAPSULE A VIS EN PLASTIQUE A L'EPREUVE DES ENFANTS+ CUILLERE MESURE",
+    "code": "001/12 E 199/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIVAROXABAN",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "B/1FL DE 10 ML",
+    "code": "447/12 F 159/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/12 F 159/23",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "TROMBIX",
+    "code": "447/12 F 159/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIVAROXABAN",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "12 F 167",
+    "packaging": "15MG",
+    "registration_number": "VAROXA",
+    "code": "447/12 F 167/16/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/12 F 159/23",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "12 F 167",
+    "packaging": "B/30",
+    "registration_number": "B/30 ET B/12 ET B/42",
+    "code": "447/12 F 167/16/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIVAROXABAN",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "12 F 168",
+    "packaging": "B/30",
+    "registration_number": "173/12 F 167/23",
+    "code": "447/12 F 168/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/12 F 159/23",
+    "dci": "12 F 159",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "12 F 168",
+    "packaging": "B/30",
+    "registration_number": "20 MG",
+    "code": "447/12 F 168/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ETAMSYLATE",
+    "dci": "12 H 040",
+    "form": "COMPRIME",
+    "dosage": "250MG",
+    "packaging": "B/20",
+    "registration_number": "173/12 F 168/23",
+    "code": "426/12 H 040/98/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EPTACOG ALFA (ACTIVE)",
+    "dci": "12 J 114",
+    "form": "GOAGIL-VII",
+    "dosage": "LYOPHILISAT POUR SOLUTION INJECTABLE",
+    "packaging": "1,2MG",
+    "registration_number": "DICYNONE",
+    "code": "003/12 J 114/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EPTACOG ALFA (ACTIVE)",
+    "dci": "12 J 114",
+    "form": "GOAGIL-VII",
+    "dosage": "12 J 117",
+    "packaging": "1,2MG",
+    "registration_number": "B/1 FLC DE LYOPHILISAT +1 FLC DE 05 ML DE SOLVANT (EAU POUR PREPARATIONS INJECTABLES)+1 SERINGUE+2 CANULES+1 CATHETER VEINEUX PERIPHERIQUE+2 TAMPONS ALCOOLISES",
+    "code": "003/12 J 117/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 J 160",
+    "dci": "12 J 114",
+    "form": "ARYOSEVEN RT",
+    "dosage": "PDRE. LYOPH. ET SOLV. P. SOL. INJ.",
+    "packaging": "1MG/FL. DE PDRE. (50KUI/FL. DE PDRE.)",
+    "registration_number": "2,4MG",
+    "code": "596/12 J 160/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 J 160",
+    "dci": "12 J 114",
+    "form": "ARYOSEVEN RT",
+    "dosage": "12 J 161",
+    "packaging": "1MG/FL. DE PDRE. (50KUI/FL. DE PDRE.)",
+    "registration_number": "B/1FL. DE PDRE. + 1FL. DE SOLVT.",
+    "code": "596/12 J 161/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 J 160",
+    "dci": "12 J 114",
+    "form": "ARYOSEVEN RT",
+    "dosage": "12 J 162",
+    "packaging": "1MG/FL. DE PDRE. (50KUI/FL. DE PDRE.)",
+    "registration_number": "2MG/FL. DE PDRE. (100KUI/FL. DE PDRE.)",
+    "code": "596/12 J 162/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NONACOG ALPHA",
+    "dci": "12 J 202",
+    "form": "INNONAFACTOR",
+    "dosage": "LYOPHIULISAT POUR SOLUTION INJECTABLE PAR VOIE IV",
+    "packaging": "500UI",
+    "registration_number": "5MG/FL. DE PDRE. (250KUI/FL. DE PDRE.)",
+    "code": "640/12 J 202/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NONACOG ALPHA",
+    "dci": "12 J 202",
+    "form": "12 J 205",
+    "dosage": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE IV",
+    "packaging": "1000UI",
+    "registration_number": "B/1 DE LYOPHILISAT + 1FL DE 5ML DE SOLVANT (EAU POUR PREPARATION INJECTABLES)",
+    "code": "003/12 J 205/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROMIPLOSTIM",
+    "dci": "12 L 179",
+    "form": "N PLATE",
+    "dosage": "PDRE. P. SOL. INJ. SC",
+    "packaging": "250µG/FL. DE PDRE.",
+    "registration_number": "B/1 DE LYOPHILISAT + 1FL DE 10ML DE SOLVANT (EAU POUR PREPARATION INJECTABLES)",
+    "code": "481/12 L 179/16/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROMIPLOSTIM",
+    "dci": "12 L 179",
+    "form": "N PLATE",
+    "dosage": "12 L 180",
+    "packaging": "250µG/FL. DE PDRE.",
+    "registration_number": "B/01 FL. DE PDRE.",
+    "code": "481/12 L 180/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FILGRASTIM",
+    "dci": "12 L 189",
+    "form": "NEUPOFIL",
+    "dosage": "SOLUTION INJECTABLE S/C IV EN SERINGUE PRE REMPLIE",
+    "packaging": "30MUI/0,5ML",
+    "registration_number": "500µG/FL. DE PDRE.",
+    "code": "433/12 L 189/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FILGRASTIM",
+    "dci": "12 L 189",
+    "form": "NEUPOFIL",
+    "dosage": "12 L 190",
+    "packaging": "30MUI/0,5ML",
+    "registration_number": "B/01 SERINGUE",
+    "code": "433/12 L 190/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 L 226",
+    "dci": "12 L 189",
+    "form": "NEUTROMAX",
+    "dosage": "SOLUTION INJECTABLE SC OU PERFUSION IV",
+    "packaging": "300MEG/ML",
+    "registration_number": "48MUI/0,5ML",
+    "code": "357/12 L 226/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "12 L 226",
+    "dci": "12 L 189",
+    "form": "NEUTROMAX",
+    "dosage": "12 L 227",
+    "packaging": "480MEG/ML",
+    "registration_number": "B/01 FL DE 1ML",
+    "code": "357/12 L 227/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CAFAZOLINE SOUS FORME DE CEFAZOLINE SODIQUE",
+    "dci": "13 B 012",
+    "form": "MIRAZOLIN",
+    "dosage": "1G",
+    "packaging": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE IV/IM",
+    "registration_number": "B/01 FL DE 1,6ML",
+    "code": "556/13 B 012/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CAFAZOLINE SOUS FORME DE CEFAZOLINE SODIQUE",
+    "dci": "13 B 013",
+    "form": "CEFAZOLINE",
+    "dosage": "1G",
+    "packaging": "POUDRE POUR SOLUTION INJECTABLE IM/IV",
+    "registration_number": "B/01 FLACON DE POUDRE ET UNE AMPOULE DE SOLVANT",
+    "code": "556/13 B 013/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CEFOTAXIME SODIQUE EXPRIME EN CEFOTAXIME",
+    "dci": "13 B 014",
+    "form": "AYATAXIM",
+    "dosage": "1G",
+    "packaging": "POUDRE POUR SOLUTION INJECTABLE IM/IV",
+    "registration_number": "BOITE DE 10 FLACON",
+    "code": "556/13 B 014/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CEFIXIME TRIHYDRATE EXPRIME EN CEFIXIME ANHYDRE",
+    "dci": "13 B 197",
+    "form": "CEFIMAX",
+    "dosage": "POUDRE POUR SUSPENSION BUVABLE",
+    "packaging": "40MG/5ML",
+    "registration_number": "POUDRE POUR SOLUTION INJECTABLE IV/IM",
+    "code": "035/13 B 197/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CEFIXIME TRIHYDRATE EXPRIME EN CEFIXIME ANHYDRE",
+    "dci": "13 B 197",
+    "form": "CEFIMAX",
+    "dosage": "SELOFER-100",
+    "packaging": "13 B 198",
+    "registration_number": "FL/40 ML ET PIPETTE GRADUEE",
+    "code": "035/13 B 198/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CEFUROXIME AXETIL EXPRIME EN CEFUROXIME",
+    "dci": "13 B 224",
+    "form": "ZYNAX",
+    "dosage": "GRANULES POUR SUSPENSION BUVABLE",
+    "packaging": "125MG/5ML",
+    "registration_number": "LEXINAL",
+    "code": "035/13 B 224/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CEFACLOR MONOHYDRATE",
+    "dci": "13 B 260",
+    "form": "CLORACEF FORTE 250",
+    "dosage": "GRANULE POUR SUSPENSION BUVABLE EN FLACON",
+    "packaging": "250MG/5ML",
+    "registration_number": "FL/200ML",
+    "code": "055/13 B 260/12/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SPIRAMYCINE",
+    "dci": "13 E 031",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "SPIRACARE",
+    "packaging": "B/16",
+    "registration_number": "FL/75ML",
+    "code": "293/13 E 031/05/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SPIRAMYCINE",
+    "dci": "13 E 031",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "13 E 032",
+    "packaging": "B/10",
+    "registration_number": "1 500 000UI",
+    "code": "293/13 E 032/05/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AZITHROMYCINE DIHYDRATE",
+    "dci": "13 E 176",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "ZITROMICINE",
+    "registration_number": "3 000 000UI",
+    "code": "591/13 E 176/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/13 E 176/15/25",
+    "dci": "13 E 176",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "ZITROMICINE",
+    "registration_number": "B/06",
+    "code": "591/13 E 176/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/13 E 176/15/25",
+    "dci": "13 E 177",
+    "form": "AZITHROMYCINE DIHYDRATEE EXPRIMEE EN AZITHROMYCINE",
+    "dosage": "POUDRE POUR SOLUTION BUVABLE",
+    "packaging": "200MG/5ML(40MG/ML)",
+    "registration_number": "ZOTRIX",
+    "code": "035/13 E 177/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLARITHROMYCINE",
+    "dci": "13 E 215",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/14",
+    "registration_number": "B/01 FL. DE 15ML,30ML,37,5ML DE SUSP. BUV. APRES RECONSTITUTION + 01 PIPETTE GRADUEE",
+    "code": "318/13 E 215/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "13 E 299",
+    "dci": "13 E 177",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "500MG",
+    "packaging": "OVULE",
+    "registration_number": "CLARITHROMYCINE NS",
+    "code": "447/13 E 299/13/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AZITHROMYCINE DIHYDRATE",
+    "dci": "13 E 177",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "OVULE",
+    "registration_number": "AZITHROMYCINE BEKER",
+    "code": "447/13 E 299/13/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/13 E 176/15/25",
+    "dci": "13 E 177",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "500MG",
+    "packaging": "OVULE",
+    "registration_number": "591/13 E 299/23",
+    "code": "447/13 E 299/13/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METRONIDAZOLE",
+    "dci": "13 F 039",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/20",
+    "registration_number": "035/13 E 299/15/25",
+    "code": "035/13 F 039/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METRONIDAZOLE BENZOATE EXPRIME EN METRONIDAZOLE",
+    "dci": "13 F 040",
+    "form": "SAILOX",
+    "dosage": "GRANULES POUR SUSPENSION BUVABLE",
+    "packaging": "SOLUTION ANTISEPTIQUE VAGINALE",
+    "registration_number": "IMUZOLE",
+    "code": "263/13 F 040/96/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METRONIDAZOLE",
+    "dci": "13 F 039",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/20",
+    "registration_number": "FLAGYL",
+    "code": "035/13 F 199/11/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ORNIDAZOLE",
+    "dci": "13 F 528",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/10",
+    "registration_number": "13 F 199",
+    "code": "001/13 F 528/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHENOXYMETHYLPENICILLINE POTASSIQUE EXPRIME EN PHENOXYMETHYLPENICILLINE",
+    "dci": "13 G 071",
+    "form": "ORAPEN",
+    "dosage": "PDRE.SUSP.OR.",
+    "packaging": "250 000UI/5ML",
+    "registration_number": "B/01 FLC DE 60ML",
+    "code": "003/13 G 071/99/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHENOXYMETHYLPENICILLINE POTASSIQUE EXPRIME EN PHENOXYMETHYLPENICILLINE",
+    "dci": "13 G 071",
+    "form": "COMPRIME",
+    "dosage": "13 G 072",
+    "packaging": "B/12",
+    "registration_number": "FL/60 ML",
+    "code": "003/13 G 072/96/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PHENOXYMETHYLPENICILLINE POTASSIQUE EXPRIME EN PHENOXYMETHYLPENICILLINE",
+    "dci": "13 G 306",
+    "form": "COMPRIME SECABLE",
+    "dosage": "SPIRACARE",
+    "packaging": "B/12",
+    "registration_number": "1G/SACHET",
+    "code": "003/13 G 306/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VANCOMYCINE** (SOUS FORME DE CHLORHYDRATE)",
+    "dci": "13 N 096",
+    "form": "VANCOLON",
+    "dosage": "500MG",
+    "packaging": "PDRE. SOL. INJ. IV",
+    "registration_number": "PHENOXYMETHYLPENICILLINE",
+    "code": "329/13 N 096/08/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "13 N 179",
+    "dci": "ACIDE FUSIDIQUE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/10",
+    "registration_number": "B/1FL. DE PDRE",
+    "code": "426/13 N 179/99/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SOFOSBUVIR/LEDIPASVIR",
+    "dci": "13 P 476",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "SOFOSLED",
+    "packaging": "B/28",
+    "registration_number": "FUCIDINE",
+    "code": "447/13 P 476/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SOFOSBUVIR/DACLATASVIR",
+    "dci": "13 P 479",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "SOFOSDAC",
+    "packaging": "B/28",
+    "registration_number": "400MG/90MG",
+    "code": "447/13 P 479/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RALTEGRAVIR",
+    "dci": "13 P 480",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "400MG",
+    "packaging": "ISENTRESS",
+    "registration_number": "400MG/60MG",
+    "code": "024/13 P 480/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LETERMOVIR",
+    "dci": "13 P 516",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "PREVYMIS",
+    "packaging": "B/28",
+    "registration_number": "B/01 FL DE 60",
+    "code": "633/13 P 516/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LETERMOVIR",
+    "dci": "13 P 516",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "13 P 517",
+    "packaging": "B/28",
+    "registration_number": "240MG",
+    "code": "633/13 P 517/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACICLOVIR",
+    "dci": "13 P 520",
+    "form": "ACICLOVIR NS",
+    "dosage": "SUSPENSION BUVABLE",
+    "packaging": "FL/125ML",
+    "registration_number": "480MG",
+    "code": "318/13 P 520/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUCONAZOLE",
+    "dci": "13 R 107",
+    "form": "FLUMIKOZ",
+    "dosage": "SOL P/PERF I/V",
+    "packaging": "FL/100ML",
+    "registration_number": "800MG/10ML",
+    "code": "433/13 R 107/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "13 R 155",
+    "dci": "13 R 107",
+    "form": "GELULE",
+    "dosage": "50MG",
+    "packaging": "AMIKOZ 50",
+    "registration_number": "200MG/100ML",
+    "code": "268/13 R 155/06/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TERBINAFINE CHLORHYDRATE EXPRIME EN TERBINAFINE",
+    "dci": "13 R 172",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/20",
+    "registration_number": "B/03 ET B/07",
+    "code": "003/13 R 172/07/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "13 R 258",
+    "dci": "13 R 107",
+    "form": "GELULE",
+    "dosage": "150MG",
+    "packaging": "OVULE GYNECOLOGIQUE",
+    "registration_number": "LAMIDAZ",
+    "code": "293/13 R 258/14/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VORICONAZOLE",
+    "dci": "13 R 337",
+    "form": "VORICONAZOLE - SAIDAL",
+    "dosage": "PDRE. SOL PERF.IV",
+    "packaging": "200 MG/FLACON",
+    "registration_number": "DIFLUCARE",
+    "code": "003/13 R 337/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ANIDULAFUNGIN",
+    "dci": "13 R 529",
+    "form": "ECALTA",
+    "dosage": "100MG",
+    "packaging": "POUDRE POUR SOLUTION A DILUER POUR PERFUSION",
+    "registration_number": "B/ 1 FLACON DE 30ML CONTENANT 200 MG DE POUDRE LYOPHILISEE",
+    "code": "045/13 R 529/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NEISSERIA MENINGITIDIS GROUPE (A POLYSACCHARIDE - C POLYSACCHARIDE - W-135 POLYSACCHARIDE - Y POLYSACCHARIDE * CONJUGUE A L'ANATOXINE TETANIQUE EN TANT QUE PREOTEINE VECTRICE)",
+    "dci": "13 U 530",
+    "form": "NIMENRIX",
+    "dosage": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE",
+    "packaging": "5µg/5µg/5µg/5µg/44µg",
+    "registration_number": "B/01 FL DE 30ML",
+    "code": "045/13 U 530/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IIMMUNOGLOBULINE HUMAINE NORMAL IGIV",
+    "dci": "13 V 471",
+    "form": "CLAIRYG",
+    "dosage": "SOLUTION POUR PERFUSION IV",
+    "packaging": "50MG/ML (2,5G/50ML OU 5G/100ML OU 10G/200ML)",
+    "registration_number": "B/01 FL DE POUDRE + UNE SERINGUE PREREMPLIE DE SOLVANT + 02 AIGUILLES",
+    "code": "533/13 V 471/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PALIVIZUMAB",
+    "dci": "13 V 499",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "SYNAGIS",
+    "packaging": "100MG/ML",
+    "registration_number": "B/01 FL. MUNI D'UN BOUCHON ET D'UNE CAPSULE",
+    "code": "256/13 V 499/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METFORMINE CHLORHYDRATE",
+    "dci": "14 A 006",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "NEXECOR",
+    "registration_number": "B/01 FLACON DE 01ML (100MG/ML) , B/01 FLACON DE 0,5ML (50MG/0,5ML)",
+    "code": "447/14 A 006/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "14 A 007",
+    "dci": "14 A 006",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "DIAGUANID",
+    "packaging": "850MG",
+    "registration_number": "B/98",
+    "code": "003/14 A 007/05/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METFORMINE CHLORHYDRATE",
+    "dci": "14 A 006",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "DIAGUANID",
+    "packaging": "B/90",
+    "registration_number": "B/30 ET B/90 ET B/120",
+    "code": "003/14 A 007/05/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACARBOSE",
+    "dci": "14 A 136",
+    "form": "COMPRIME",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "447/14 A 007/10/25",
+    "code": "447/14 A 136/16/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "14 A 341",
+    "dci": "14 A 136",
+    "form": "COMPRIME SECABLE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "GLYBEK",
+    "code": "149/14 A 341/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACARBOSE",
+    "dci": "14 A 136",
+    "form": "COMPRIME SECABLE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "GLUCONOVA",
+    "code": "149/14 A 341/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SITAGLIPTINE PHOSPHATE MONOHYDRATE EXPRIME EN SITAGLIPTINE",
+    "dci": "14 A 342",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "447/14 A 341/16/22",
+    "code": "263/14 A 342/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VILDAGLIPTINE",
+    "dci": "14 A 345",
+    "form": "COMPRIME",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "JEGA",
+    "code": "546/14 A 345/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALOGLIPTINE BENZOATE/METFORMINE CHLORHYDRATE",
+    "dci": "14 A 374",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "VIPDOMET",
+    "packaging": "B/60",
+    "registration_number": "GALVINE",
+    "code": "001/14 A 374/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALOGLIPTINE BENZOATE/METFORMINE CHLORHYDRATE",
+    "dci": "14 A 374",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "14 A 375",
+    "packaging": "B/60",
+    "registration_number": "12.5MG/500MG",
+    "code": "001/14 A 375/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GLICLAZIDE",
+    "dci": "14 A 391",
+    "form": "DIAMICRON",
+    "dosage": "60MG",
+    "packaging": "COMPRIME SECABLE A LIBERATION MODIFIEE",
+    "registration_number": "12.5MG/1000MG",
+    "code": "040/14 A 391/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EMPAGLIFLOZINE",
+    "dci": "14 A 399",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "25MG",
+    "packaging": "B/30",
+    "registration_number": "B/30 ET B/150",
+    "code": "152/14 A 399/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EMPAGLIFLOZINE",
+    "dci": "14 A 399",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "JARDIANCE",
+    "code": "152/14 A 413/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "INSULINE DETEMIR",
+    "dci": "14 B 227",
+    "form": "LEVEMIR FLEXPEN",
+    "dosage": "SOLUTION INJECTABLE",
+    "packaging": "100U/ML",
+    "registration_number": "14 A 413",
+    "code": "069/14 B 227/07/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "INSULINE GLARGINE",
+    "dci": "14 B 384",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "TOUJEO SOLOSTAR",
+    "packaging": "300UI/ML",
+    "registration_number": "B/05 STYLOS PRE REMPLIS MULTIDOSE JETABLES DE 3ML",
+    "code": "376/14 B 384/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CARBONATE DE CALCIUM EXPRIME EN CALCIUM ELEMENT",
+    "dci": "14 G 029",
+    "form": "SMECTA FRAISE",
+    "dosage": "500MG",
+    "packaging": "KINADYN CALCIUM",
+    "registration_number": "B/3 STYLOS DE 1,5ML",
+    "code": "263/14 G 029/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOCARNITINE",
+    "dci": "14 G 038",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "METACARTIN",
+    "packaging": "100 MG/ML",
+    "registration_number": "B/30SACHETS",
+    "code": "544/14 G 038/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GLUCOSE MONOHYDRATE EXPRIME EN GLUCOSE ANHYDRE",
+    "dci": "14 G 044",
+    "form": "GLUCOSE-SAIDAL",
+    "dosage": "SOLUTION INJECTABLE POUR PERFUSION",
+    "packaging": "5% (25G/500ML)",
+    "registration_number": "BOITE D'UN FLACON DE 100ML",
+    "code": "003/14 G 044/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "280/14 G 044/01/22",
+    "dci": "14 G 044",
+    "form": "GLUCOSE 5%",
+    "dosage": "SOLUTION INJECTABLE POUR PERFUSION",
+    "packaging": "SOLUTION POUR PERFUSION",
+    "registration_number": "FLACON DE POLYPROPYLENE DE 500ML",
+    "code": "003/14 G 044/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CHLORURE DE SODIUM",
+    "dci": "14 G 078",
+    "form": "GLUCOSE 5%",
+    "dosage": "8.9999999999999993E-3",
+    "packaging": "SODIUM CHLORIDE 0,9% INFUSION BP 2021",
+    "registration_number": "POCHE DE 500ML  ET FLACON DE 500ML",
+    "code": "657/14 G 078/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "003/14 G 078/25",
+    "dci": "14 G 078",
+    "form": "GLUCOSE 5%",
+    "dosage": "8.9999999999999993E-3",
+    "packaging": "SODIUM CHLORIDE 0,9% INFUSION BP 2021",
+    "registration_number": "FLACON EN LDPE DE 500ML",
+    "code": "657/14 G 078/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CALCIUM CARBONATE",
+    "dci": "14 G 141",
+    "form": "SELOFER FOL",
+    "dosage": "500MG",
+    "packaging": "B/60",
+    "registration_number": "SODIUM CHLORIDE INFUSION (B.P.2021)",
+    "code": "318/14 G 141/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EAU POUR PREPARATIONS INJECTABLES",
+    "dci": "14 G 183",
+    "form": "EAU POUR PREPARATIONS INJECTABLES RAZES",
+    "dosage": "SOLUTION POUR PREPARATION INJECTABLE",
+    "packaging": "1 AMP DE 2ML",
+    "registration_number": "CALCIOS",
+    "code": "433/14 G 183/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "003/14 G 183/25",
+    "dci": "14 G 183",
+    "form": "EAU POUR PREPARATIONS INJECTABLES RAZES",
+    "dosage": "SOLUTION POUR PREPARATION INJECTABLE",
+    "packaging": "1 AMP DE 2ML",
+    "registration_number": "B/50 AMP. DE 2ML",
+    "code": "433/14 G 183/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "EAU POUR PREPARATIONS INJECTABLES",
+    "dci": "14 G 185",
+    "form": "EAU POUR PREPARATIONS INJECTABLES IM/IV",
+    "dosage": "EAU POUR PREPARATION INJECTABLE IM/IV",
+    "packaging": "AMP. DE 5ML",
+    "registration_number": "EPPI-SAIDAL",
+    "code": "433/14 G 185/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIDE ASCORBIQUE",
+    "dci": "14 H 222",
+    "form": "COMPRIME EFFERVESSANT",
+    "dosage": "1G",
+    "packaging": "B/10",
+    "registration_number": "B/50 AMP. DE 5ML",
+    "code": "235/14 H 222/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "VITAMINE C BGL",
+    "dci": "14 H 222",
+    "form": "COMPRIME EFFERVESSANT",
+    "dosage": "1G",
+    "packaging": "B/10",
+    "registration_number": "B/50 AMP. DE 5ML",
+    "code": "235/14 H 222/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ACIDE AMINES/GLUCOSE/LIPIDES",
+    "dci": "14 K 417",
+    "form": "NUMETZAH G13% E",
+    "dosage": "EMULSION POUR PERFEUSION",
+    "packaging": "50%/5,9%/12,5%",
+    "registration_number": "VITAMINE C  BGL",
+    "code": "298/14 K 417/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "14 K 418",
+    "dci": "14 K 417",
+    "form": "NUMETZAH G13% E",
+    "dosage": "EMULSION POUR PERFEUSION",
+    "packaging": "NUMETZAH G16% E",
+    "registration_number": "10 POCHES DE 300ML DE 3 COMPARTIMENTS (80ML + 160ML + 60ML)",
+    "code": "298/14 K 418/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "14 K 419",
+    "dci": "14 K 417",
+    "form": "NUMETZAH G13% E",
+    "dosage": "EMULSION POUR PERFEUSION",
+    "packaging": "NUMETZAH G19% E",
+    "registration_number": "06 POCHES DE 500ML DE 3 COMPARTIMENTS (155ML + 221ML + 124ML)",
+    "code": "298/14 K 419/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "IMIGLUCERASE",
+    "dci": "14 N 316",
+    "form": "GLURAZYME",
+    "dosage": "PDRE. A DILUER SOL. PERF. IV",
+    "packaging": "400 U",
+    "registration_number": "06 POCHES DE 1000ML DE 3 COMPARTIMENTS (383ML + 392ML + 225ML)",
+    "code": "592/14 N 316/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SEMAGLUTIDE",
+    "dci": "14 R 414",
+    "form": "LEVEMIR FLEXPEN",
+    "dosage": "OZEMPIC",
+    "packaging": "0,25MG",
+    "registration_number": "B/01FL. DE PDRE. 400UI",
+    "code": "069/14 R 414/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SEMAGLUTIDE",
+    "dci": "14 R 414",
+    "form": "LEVEMIR FLEXPEN",
+    "dosage": "14 R 415",
+    "packaging": "1MG",
+    "registration_number": "STYLO PRE REMPLI 1,5 ml",
+    "code": "069/14 R 415/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SEMAGLUTIDE",
+    "dci": "14 R 414",
+    "form": "LEVEMIR FLEXPEN",
+    "dosage": "09 P 110",
+    "packaging": "0,25MG",
+    "registration_number": "STYLO PRE REMPLI 3 ml",
+    "code": "069/14 R 416/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLONAZEPAM",
+    "dci": "15 A 008",
+    "form": "COMPRIME",
+    "dosage": "2MG",
+    "packaging": "B/20",
+    "registration_number": "14 R 416",
+    "code": "242/15 A 008/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLONAZEPAM",
+    "dci": "15 A 008",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "15 A 009",
+    "packaging": "2,5MG/ML",
+    "registration_number": "CLONA",
+    "code": "242/15 A 009/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LAMOTRIGINE",
+    "dci": "15 A 051",
+    "form": "PENAMOX D",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "1 FLACON/20ML",
+    "code": "352/15 A 051/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "447/15 A 051/16/25",
+    "dci": "15 A 051",
+    "form": "PENAMOX D",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "AMITRAL",
+    "code": "352/15 A 051/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "15 A 052",
+    "dci": "15 A 051",
+    "form": "BIOLAM",
+    "dosage": "25MG",
+    "packaging": "B/30",
+    "registration_number": "LAMOTRIGINE BEKER",
+    "code": "293/15 A 052/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "447/15 A 051/16/25",
+    "dci": "15 A 051",
+    "form": "PENAMOX D",
+    "dosage": "25MG",
+    "packaging": "B/56",
+    "registration_number": "COMPRIME DISPERS. OU. A CROQUER",
+    "code": "293/15 A 052/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LAMOTRIGINE",
+    "dci": "15 A 051",
+    "form": "PENAMOX D",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "447/15 A 052/13/23",
+    "code": "352/15 A 053/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "15 A 052",
+    "dci": "15 A 051",
+    "form": "BIOLAM",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "registration_number": "15 A 053",
+    "code": "352/15 A 053/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "447/15 A 051/16/25",
+    "dci": "15 A 051",
+    "form": "PENAMOX D",
+    "dosage": "100MG",
+    "packaging": "B/56",
+    "registration_number": "293/15 A 053/18/25",
+    "code": "352/15 A 053/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PREGABALINE",
+    "dci": "15 A 068",
+    "form": "GELULE",
+    "dosage": "150MG",
+    "packaging": "B/60",
+    "registration_number": "447/15 A 053/13/25",
+    "code": "263/15 A 068/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "15 A 069",
+    "dci": "15 A 068",
+    "form": "GELULE",
+    "dosage": "300MG",
+    "packaging": "PREGABALINE BEKER",
+    "registration_number": "NEURICA",
+    "code": "447/15 A 069/13/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVETIRACETAM",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/30",
+    "registration_number": "B/60 ET B/90",
+    "code": "177/15 A 072/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/15 A 072/20",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/30",
+    "registration_number": "EPIXX",
+    "code": "177/15 A 072/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "492/15 A 072/20/25",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/60",
+    "registration_number": "KEPACETAM",
+    "code": "177/15 A 072/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVETIRACETAM",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/30",
+    "registration_number": "SOPROTAM 250",
+    "code": "177/15 A 073/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/15 A 072/20",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/30",
+    "registration_number": "15 A 073",
+    "code": "177/15 A 073/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GABAPENTINE",
+    "dci": "15 A 086",
+    "form": "GELULE",
+    "dosage": "300MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "173/15 A 073/20",
+    "code": "173/15 A 086/18/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GABAPENTINE",
+    "dci": "15 A 086",
+    "form": "GELULE",
+    "dosage": "400MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "B/50",
+    "code": "173/15 A 087/18/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVETIRACETAM",
+    "dci": "15 A 072",
+    "form": "15 A 100",
+    "dosage": "SYNAGIS",
+    "packaging": "SOLUTION BUVALE",
+    "registration_number": "15 A 087",
+    "code": "177/15 A 100/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "15 A 101",
+    "dci": "15 A 068",
+    "form": "GELULE",
+    "dosage": "75MG",
+    "packaging": "B/56",
+    "registration_number": "FL/300ML",
+    "code": "177/15 A 101/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "595/15 A 101/18",
+    "dci": "15 A 068",
+    "form": "GELULE",
+    "dosage": "75MG",
+    "packaging": "B/56",
+    "registration_number": "GABALYSE",
+    "code": "177/15 A 101/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVETIRACETAM",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "15 A 102",
+    "packaging": "B/30",
+    "registration_number": "LYRICA",
+    "code": "177/15 A 102/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVETIRACETAM",
+    "dci": "15 A 072",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "1000MG",
+    "packaging": "B/60",
+    "registration_number": "750MG",
+    "code": "177/15 A 105/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RIZATRIPTAN",
+    "dci": "15 B 137",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "MITRIPTAN",
+    "packaging": "B/10",
+    "registration_number": "15 A 105",
+    "code": "352/15 B 137/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "METHYLSULFATE DE NEOSTIGMINE",
+    "dci": "15 C 024",
+    "form": "NEOSTIGMINE RAZES",
+    "dosage": "09 P 110",
+    "packaging": "Solution injectable IM,IV,S/C",
+    "registration_number": "10 MG",
+    "code": "433/15 C 024/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVODOPA/CARBIDOPA",
+    "dci": "15 D 031",
+    "form": "COMPRIME",
+    "dosage": "LEVOCARB",
+    "packaging": "50µG",
+    "registration_number": "B/10 AMPS",
+    "code": "235/15 D 031/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROPINIROLE",
+    "dci": "15 D 144",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "4 MG",
+    "packaging": "B/30",
+    "registration_number": "100MG/10MG",
+    "code": "352/15 D 144/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROPINIROLE",
+    "dci": "15 D 144",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "15 D 145",
+    "packaging": "B/30",
+    "registration_number": "KEPNIROL",
+    "code": "352/15 D 145/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ROPINIROL",
+    "dci": "15 D 146",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "2MG",
+    "packaging": "B/30",
+    "registration_number": "8 MG",
+    "code": "352/15 D 146/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FINGOLIMOD CHLORHYDRATE EXPRIME EN FINGOLIMOD",
+    "dci": "15 G 125",
+    "form": "GELULE",
+    "dosage": "LYXIA",
+    "packaging": "B/28",
+    "registration_number": "KEPNIROL LP",
+    "code": "001/15 G 125/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FAMPRIDINE",
+    "dci": "15 G 133",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "10MG",
+    "packaging": "B/14",
+    "registration_number": "0,5MG",
+    "code": "263/15 G 133/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "GLATIRAMERE ACETATE",
+    "dci": "15 G 134",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "GLATHERA",
+    "packaging": "40MG/ML",
+    "registration_number": "SCLERYL",
+    "code": "543/15 G 134/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLADRIBINE",
+    "dci": "15 G 137",
+    "form": "COMPRIME",
+    "dosage": "MITRIPTAN",
+    "packaging": "MARVYL",
+    "registration_number": "B/02 SERINGUES PRE-REMPLIES DE 1ML",
+    "code": "001/15 G 137/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CITICOLINE SOUS FORME SODIQUE",
+    "dci": "15 K 045",
+    "form": "CITICOLINE-ISO",
+    "dosage": "SYNAGIS",
+    "packaging": "SOLUTION BUVABLE",
+    "registration_number": "B/01 B/04 B/06",
+    "code": "073/15 K 045/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AMITRIPTYLINE CHLORHYDRATE EXPRIME EN AMITRIPTYLINE",
+    "dci": "16 A 003",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "ISOPTYL",
+    "packaging": "4% (40MG/ML)",
+    "registration_number": "B/01 FLC DE 50ML AVEC PIPETTE GRADUEE",
+    "code": "073/16 A 003/98/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MIANSERINE CHLORHYDRATE",
+    "dci": "16 A 013",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "B/01 FLACON DE 20ML",
+    "code": "235/16 A 013/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLOZAPINE",
+    "dci": "16 A 096",
+    "form": "COMPRIME SECABLE",
+    "dosage": "25MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "TOLMIL",
+    "code": "651/16 A 096/00/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CLOZAPINE",
+    "dci": "16 A 096",
+    "form": "COMPRIME SECABLE",
+    "dosage": "100MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "LEPONEX",
+    "code": "651/16 A 097/00/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SERTRALINE CHLORHYDRATE EXPRIME EN SERTRALINE",
+    "dci": "16 A 099",
+    "form": "GELULE",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "16 A 097",
+    "code": "591/16 A 099/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ESCITALOPRAM OXALATE EXPRIME EN ESCITALOPRAM",
+    "dci": "16 A 105",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "ZOTRALINE",
+    "code": "177/16 A 105/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ESCITALOPRAM OXALATE EXPRIME EN ESCITALOPRAM",
+    "dci": "16 A 105",
+    "form": "COMPRIME",
+    "dosage": "20MG",
+    "packaging": "B/28",
+    "registration_number": "ESCITOL",
+    "code": "177/16 A 130/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ESCITALOPRAM OXALATE EXPRIME EN ESCITALOPRAM",
+    "dci": "16 A 105",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "10MG/ML",
+    "packaging": "16 A 131",
+    "registration_number": "16 A 130",
+    "code": "177/16 A 131/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/16 A 131/25",
+    "dci": "16 A 105",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "10MG/ML",
+    "packaging": "16 A 131",
+    "registration_number": "B/01 FLC DE 15ML AVEC COMPTE GOUTTES",
+    "code": "177/16 A 131/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BROMAZEPAM",
+    "dci": "16 B 098",
+    "form": "COMPRIME QUADRI-SECABLE",
+    "dosage": "ANXYPAM",
+    "packaging": "B/30",
+    "registration_number": "CITOPLEX",
+    "code": "242/16 B 098/07/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MIDAZOLAM",
+    "dci": "16 C 051",
+    "form": "HYPNOZOLAM",
+    "dosage": "SOL INJ IV/IM/SC POUR PERFUSION OU RECTALE",
+    "packaging": "5MG/ML (15MG/3ML)",
+    "registration_number": "6MG",
+    "code": "433/16 C 051/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOMEPROMAZINE",
+    "dci": "16 D 058",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "100MG",
+    "packaging": "B/20",
+    "registration_number": "BOITE DE 10 AMPOULES DE 10ML/BOITE DE 10 AMPOULES DE 01ML/BOITE DE 5 AMPOULES DE 03ML",
+    "code": "235/16 D 058/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SULPIRIDE",
+    "dci": "16 D 066",
+    "form": "GELULE",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "registration_number": "LEVONON BGL",
+    "code": "268/16 D 066/05/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "16 D 067",
+    "dci": "16 D 066",
+    "form": "SULPUREN",
+    "dosage": "SOL.BUV.",
+    "packaging": "25MG/5ML (OU 0,5%)",
+    "registration_number": "SULPIRIDE MERINAL",
+    "code": "003/16 D 067/97/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RISPERIDONE",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "14 R 415",
+    "packaging": "B/30",
+    "registration_number": "FL/180 ML",
+    "code": "352/16 D 089/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "263/16 D 089/10/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "14 R 415",
+    "packaging": "APIXABEK",
+    "registration_number": "RIPERAL",
+    "code": "352/16 D 089/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/16 D 089/11/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "14 R 415",
+    "packaging": "B/30",
+    "registration_number": "RISPAL",
+    "code": "352/16 D 089/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RISPERIDONE",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2MG",
+    "packaging": "B/30",
+    "registration_number": "RIPSYZEN",
+    "code": "352/16 D 090/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "263/16 D 089/10/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "2MG",
+    "packaging": "APIXABEK",
+    "registration_number": "16 D 090",
+    "code": "352/16 D 090/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/16 D 089/11/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "2MG",
+    "packaging": "B/30",
+    "registration_number": "263/16 D 090/10/25",
+    "code": "352/16 D 090/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "263/16 D 089/10/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "4MG",
+    "packaging": "B/30",
+    "registration_number": "035/16 D 090/11/25",
+    "code": "263/16 D 091/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "035/16 D 089/11/25",
+    "dci": "16 D 089",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "4MG",
+    "packaging": "B/30",
+    "registration_number": "16 D 091",
+    "code": "263/16 D 091/10/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "263/16 D 089/10/25",
+    "dci": "16 D 089",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "1MG/ML",
+    "packaging": "16 D 092",
+    "registration_number": "035/16 D 091/11/25",
+    "code": "263/16 D 092/16/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OLANZAPINE",
+    "dci": "16 D 099",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/28",
+    "registration_number": "B/1 FLC DE 30ML+ 01 SERINGUE DOSEUSE GRADUEE DE 3ML",
+    "code": "447/16 D 099/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "426/16 D 099/21",
+    "dci": "16 D 099",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/28",
+    "registration_number": "OLANZA",
+    "code": "447/16 D 099/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "426/16 D 099/21",
+    "dci": "16 D 099",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "REXAPIN",
+    "code": "426/16 D 100/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ARIPIPRAZOLE",
+    "dci": "16 D 103",
+    "form": "COMPRIME",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "16 D 100",
+    "code": "426/16 D 103/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "352/16 D 103/15/25",
+    "dci": "16 D 103",
+    "form": "COMPRIME",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "ABDIFLY",
+    "code": "426/16 D 103/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/16 D 103/22",
+    "dci": "16 D 103",
+    "form": "COMPRIME",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "ABILIZOLE",
+    "code": "426/16 D 103/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ARIPIPRAZOLE",
+    "dci": "16 D 103",
+    "form": "COMPRIME",
+    "dosage": "12 F 167",
+    "packaging": "B/28",
+    "registration_number": "ARPETAB",
+    "code": "426/16 D 104/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "173/16 D 103/22",
+    "dci": "16 D 103",
+    "form": "COMPRIME",
+    "dosage": "12 F 167",
+    "packaging": "B/30",
+    "registration_number": "16 D 104",
+    "code": "426/16 D 104/19/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ATOMOXETINE CHLORHYDRATE EXPRIME EN ATOMOXETINE",
+    "dci": "16 D 111",
+    "form": "GELULE",
+    "dosage": "STRATAN",
+    "packaging": "B/30",
+    "registration_number": "173/16 D 104/22",
+    "code": "352/16 D 111/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ATOMOXETINE CHLORHYDRATE EXPRIME EN ATOMOXETINE",
+    "dci": "16 D 111",
+    "form": "GELULE",
+    "dosage": "25MG",
+    "packaging": "B/30",
+    "registration_number": "18MG",
+    "code": "352/16 D 112/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ATOMOXETINE CHLORHYDRATE EXPRIME EN ATOMOXETINE",
+    "dci": "16 D 111",
+    "form": "GELULE",
+    "dosage": "16 D 113",
+    "packaging": "B/30",
+    "registration_number": "16 D 112",
+    "code": "352/16 D 113/20/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOXAPINE",
+    "dci": "16 D 134",
+    "form": "SOLUTION BUVABLE",
+    "dosage": "LOXAPAC",
+    "packaging": "25MG/ML",
+    "registration_number": "40 MG",
+    "code": "656/16 D 134/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LOXAPINE",
+    "dci": "16 D 134",
+    "form": "SOLUTION INJECTABLE IM",
+    "dosage": "16 D 147",
+    "packaging": "25MG/ML (OU 50MG/2ML)",
+    "registration_number": "B/1FL. DE 30ML AVEC SERINGUE POUR ADMINISTRATION ORALE",
+    "code": "446/16 D 147/09/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AMISULPRIDE",
+    "dci": "16 D 160",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "400MG",
+    "packaging": "B/30",
+    "registration_number": "B/10 AMP DE 2ML",
+    "code": "392/16 D 160/14/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "16 D 170",
+    "dci": "16 D 103",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "SOLIAN",
+    "code": "426/16 D 170/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "16 D 170",
+    "dci": "16 D 103",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "12 F 167",
+    "packaging": "B/28",
+    "registration_number": "ABDIFLY OD",
+    "code": "426/16 D 171/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LURASIDONE CHLORHYDRATE",
+    "dci": "16 D 177",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "40MG",
+    "packaging": "B/30",
+    "registration_number": "16 D 171",
+    "code": "352/16 D 177/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LURASIDONE CHLORHYDRATE",
+    "dci": "16 D 177",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "registration_number": "LODERA",
+    "code": "352/16 D 178/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "16 D 183",
+    "dci": "16 D 099",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "20MG",
+    "packaging": "B/30",
+    "registration_number": "16 D 178",
+    "code": "268/16 D 183/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OXYBUPROCAINE",
+    "dci": "17 A 001",
+    "form": "ANESTOCIL",
+    "dosage": "COLLYRE EN SOLUTION",
+    "packaging": "0,4%",
+    "registration_number": "OLANZEX ORO 20",
+    "code": "185/17 A 001/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "KETOTIFENE HYDROGENOFUMARATE EXPRIME EN KETOTIFENE",
+    "dci": "17 B 171",
+    "form": "ANESTOCIL",
+    "dosage": "PARVISTEN",
+    "packaging": "0,25MG/ML",
+    "registration_number": "FL/10ML",
+    "code": "521/17 B 171/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CHLORHYDRATE DE CARTEOLOL",
+    "dci": "17 C 147",
+    "form": "LEOCART LP",
+    "dosage": "0,02",
+    "packaging": "COLLYRE EN SOLUTION A LIBERATION PROLONGEE",
+    "registration_number": "BOITE DE 1 FLACON DE 5ML",
+    "code": "065/17 C 147/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OFLOXACINE",
+    "dci": "17 D 157",
+    "form": "ANESTOCIL",
+    "dosage": "OPTIFLOX",
+    "packaging": "0,3% ( 3mg/ml)",
+    "registration_number": "BOITE DE 1 FLACON DE 3ML",
+    "code": "608/17 D 157/12/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TOBRAMYCINE/DEXAMETHASONE",
+    "dci": "17 D 159",
+    "form": "OPTIDEX-T",
+    "dosage": "COLLYRE",
+    "packaging": "0,3%/0,1%",
+    "registration_number": "FL/5ML",
+    "code": "386/17 D 159/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "LEVOFLOXACINE HEMIHYDRATE",
+    "dci": "17 D 188",
+    "form": "VIVAXIN",
+    "dosage": "COLLYRE",
+    "packaging": "0,3% ( 3mg/ml)",
+    "registration_number": "FL/05ML",
+    "code": "406/17 D 188/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MERCAPTAMINE",
+    "dci": "17 M 186",
+    "form": "CYSTADROPS",
+    "dosage": "COLLYRE EN SOLUTION",
+    "packaging": "3,8 mg/ml",
+    "registration_number": "5MG/ML",
+    "code": "533/17 M 186/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYALURONATE DE SODIUM",
+    "dci": "17 N 160",
+    "form": "ANESTOCIL",
+    "dosage": "HYFRESH",
+    "packaging": "0,2% (OU 2MG/ML)",
+    "registration_number": "B/01 FL 05 ml",
+    "code": "386/17 N 160/09/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CICLOSPORINE",
+    "dci": "17 N 189",
+    "form": "RESTASIS",
+    "dosage": "5.0000000000000001E-4",
+    "packaging": "EMULSION OPHTALMIQUE",
+    "registration_number": "FL./10ML",
+    "code": "665/17 N 189/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "RANIBIZUMAB",
+    "dci": "17 P 161",
+    "form": "RANIBIZUMAB-SAIDAL",
+    "dosage": "SOLUTION INJECTABLE EN SERINGUE PREREMLIE",
+    "packaging": "10MG/ML (1,65MG/0,165ML)",
+    "registration_number": "B/30 FL UNIDOSE DE 0,4ML",
+    "code": "003/17 P 161/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FARICIMAB",
+    "dci": "17 P 187",
+    "form": "VABYSMO",
+    "dosage": "SOLUTION POUR INJECTION INTRA-VITREENNE EN VIAL",
+    "packaging": "120MG/ML",
+    "registration_number": "BOITE D'UNE SERINGUE PRE REMPLIE DE 0,165ML",
+    "code": "128/17 P 187/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUBENDAZOLE",
+    "dci": "19 B 005",
+    "form": "SAILOX",
+    "dosage": "FLUVERMI",
+    "packaging": "100MG/5ML (2%)",
+    "registration_number": "B/01 FL DE 28,8MG DE FARICIMAB DANS UNE SOLUTION DE 0,24ML INCLUANT UNE AIGUILLE A FILTRE",
+    "code": "285/19 B 005/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MONTELUKAST SOUS FORME SODIQUE",
+    "dci": "20 A 211",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "BOITE DE 1 FLACON DE 30 ML",
+    "code": "293/20 A 211/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "426/20 A 211/18/24",
+    "dci": "20 A 211",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "registration_number": "MONKAST",
+    "code": "293/20 A 211/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MONTELUKAST SODIQUE EXPRIME EN MONTELUKAST",
+    "dci": "20 A 225",
+    "form": "RENNIE",
+    "dosage": "4MG",
+    "packaging": "B/30",
+    "registration_number": "ONCEAIR",
+    "code": "447/20 A 225/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MONTELUKAST SOUS FORME SODIQUE",
+    "dci": "20 A 225",
+    "form": "RENNIE",
+    "dosage": "5MG",
+    "packaging": "B/28",
+    "registration_number": "MONTELUKAST BEKER",
+    "code": "293/20 A 226/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "MONTELUKAST SODIQUE EXPRIME EN MONTELUKAST",
+    "dci": "20 A 225",
+    "form": "RENNIE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "20 A 226",
+    "code": "293/20 A 226/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "426/20 A 211/18/24",
+    "dci": "20 A 225",
+    "form": "RENNIE",
+    "dosage": "5MG",
+    "packaging": "B/28",
+    "registration_number": "447/20 A 226/15/25",
+    "code": "293/20 A 226/18/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TIOTROPIUM / TIOTROPIUM BROMURE MONOHYDRATE",
+    "dci": "20 A 234",
+    "form": "RESPYVA",
+    "dosage": "POUDRE POUR INHALATION EN GELULE",
+    "packaging": "18UG/22,5UG",
+    "registration_number": "426/20 A 226/18/24",
+    "code": "317/20 A 234/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUTICASONE (SOUS FORME DE PROPIONATE)**/SALMETEROL**(SOUS FORME DE XINAFOATE)",
+    "dci": "20 F 104",
+    "form": "BREQUAL",
+    "dosage": "CAPSULES CONTENANT PDRE.PR INHAL.",
+    "packaging": "B/60",
+    "registration_number": "BOITE DE 30 + INHALATEUR",
+    "code": "177/20 F 104/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUTICASONE (SOUS FORME DE PROPIONATE)**/SALMETEROL**(SOUS FORME DE XINAFOATE)",
+    "dci": "20 F 105",
+    "form": "BREQUAL",
+    "dosage": "FLUTICASONE PROPIONATE/SALMETEROL XINAFOATE EXPRIME EN SALMETEROL",
+    "packaging": "250µG/72,5µG",
+    "registration_number": "100µG/50µG",
+    "code": "177/20 F 105/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "648/20 F 105/25",
+    "dci": "20 F 105",
+    "form": "INSPIRYA",
+    "dosage": "PDRE. INHAL. EN GLES. + INHALATEUR",
+    "packaging": "250µG/72,5µG",
+    "registration_number": "B/60 GELULE + INHALATEUR",
+    "code": "177/20 F 105/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FLUTICASONE (SOUS FORME DE PROPIONATE)**/SALMETEROL**(SOUS FORME DE XINAFOATE)",
+    "dci": "20 F 105",
+    "form": "20 F 106",
+    "dosage": "CAPSULES CONTENANT DE LA PDRE P.INHALATION",
+    "packaging": "500µG/50µG",
+    "registration_number": "250µG/50µG",
+    "code": "177/20 F 106/17/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BUDESONIDE/FORMOTEROL",
+    "dci": "20 F 229",
+    "form": "BUFOMIX EASYHALER",
+    "dosage": "PDRE. P. INHAL.",
+    "packaging": "200µG/6µG/DOSE",
+    "registration_number": "B/60 CAPSULES + 1 INHALATEUR QHALER",
+    "code": "001/20 F 229/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "BUDESONIDE/FORMOTEROL",
+    "dci": "20 F 229",
+    "form": "BUFOMIX EASYHALER",
+    "dosage": "20 F 230",
+    "packaging": "400µG/12µG/DOSE",
+    "registration_number": "FL./120DOSES",
+    "code": "001/20 F 230/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "FORMOTEROL/ GLYCOPYRRONIUM/ BUDESONIDE",
+    "dci": "20 F 255",
+    "form": "BREZTRI AEROSPHERE",
+    "dosage": "SUSPENSION POUR INHALATION",
+    "packaging": "5µg/7,2µg/160µg",
+    "registration_number": "FL./60DOSES",
+    "code": "256/20 A 255/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "PORACTANT ALFA",
+    "dci": "20 G 254",
+    "form": "CUROSURF",
+    "dosage": "SUSPENSION POUR INSTILLATION ENDOTRACHEOBRONCHIQUE",
+    "packaging": "80MG/ML",
+    "registration_number": "ETUI 120 DOSES",
+    "code": "092/20 G 254/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "21 A 032",
+    "dci": "KETOPROFENE",
+    "form": "KETONYX",
+    "dosage": "GEL DERMIQUE",
+    "packaging": "0,025",
+    "registration_number": "B/1 FL DE 1,5ML(120MG)/B/1 FL DE 3ML(240MG)",
+    "code": "546/21 A 032/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALLOPURINOL",
+    "dci": "21 B 007",
+    "form": "COMPRIME",
+    "dosage": "LESURIC",
+    "packaging": "B/30",
+    "registration_number": "T/50G",
+    "code": "447/21 B 007/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "268/21 B 007/98/25",
+    "dci": "21 B 007",
+    "form": "COMPRIME",
+    "dosage": "100MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "100 MG",
+    "code": "447/21 B 007/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALLOPURINOL",
+    "dci": "21 B 007",
+    "form": "COMPRIME",
+    "dosage": "300MG",
+    "packaging": "B/30",
+    "registration_number": "ZYLORIC",
+    "code": "447/21 B 008/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TOLPERISONE CHLORHYDRATE",
+    "dci": "21 E 060",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG",
+    "packaging": "MYDOCALM",
+    "registration_number": "21 B 008",
+    "code": "001/21 E 060/16/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "546/21 E 060/21",
+    "dci": "21 E 060",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "MYSOLAX",
+    "packaging": "MYDOCALM",
+    "registration_number": "B10 ET B/30",
+    "code": "001/21 E 060/16/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "318/21 E 060/25",
+    "dci": "21 E 060",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG",
+    "packaging": "B/30",
+    "registration_number": "150 MG",
+    "code": "001/21 E 060/16/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ALENDRONATE MONOSODIQUE TRIHYDRATE EXPRIME EN ACIDE ALENDRONIQUE",
+    "dci": "21 G 050",
+    "form": "COMPRIME",
+    "dosage": "DROMAX",
+    "packaging": "70MG",
+    "registration_number": "MYOLAXAN",
+    "code": "263/21 G 050/15/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "544/21 G 050/22",
+    "dci": "21 G 050",
+    "form": "COMPRIME",
+    "dosage": "DROMAX",
+    "packaging": "70MG",
+    "registration_number": "B/04",
+    "code": "263/21 G 050/15/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DENOSUMAB",
+    "dci": "21 G 065",
+    "form": "PROLIA",
+    "dosage": "SOLUTION INJECTABLE SC EN SERINGUE PREREMPLIE",
+    "packaging": "60MG/ML",
+    "registration_number": "OSMAX",
+    "code": "481/21 G 065/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ADALIMUMAB",
+    "dci": "21 J 058",
+    "form": "HULIO",
+    "dosage": "SOLUTION INJECTABLE. S/C EN SERINGUE PRE-REMPLIE",
+    "packaging": "40MG/0.8ML",
+    "registration_number": "B/01 SERINGUE PREREMPLIE SECURISEE DE 1ML",
+    "code": "613/21 J 058/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "575/21 J 058/25",
+    "dci": "21 J 058",
+    "form": "HULIO",
+    "dosage": "SOLUTION INJECTABLE. S/C EN SERINGUE PRE-REMPLIE",
+    "packaging": "40MG/0.8ML",
+    "registration_number": "B/2 SERINGUE PRE-REMPLIES DE 0.8ML",
+    "code": "613/21 J 058/21",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ETANERCEPT",
+    "dci": "21 J 078",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "50MG",
+    "packaging": "ENBREL",
+    "registration_number": "ADAMIRA",
+    "code": "045/21 J 078/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DEFERASIROX",
+    "dci": "24 D 017",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "125MG",
+    "packaging": "B/30",
+    "registration_number": "500MG/4MG",
+    "code": "001/24 D 017/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DEFERASIROX",
+    "dci": "24 D 017",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "250MG",
+    "packaging": "B/30",
+    "registration_number": "DEFEROX",
+    "code": "001/24 D 018/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "661/24 D 018/16/22",
+    "dci": "24 D 017",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "250MG",
+    "packaging": "B/30",
+    "registration_number": "24 D 018",
+    "code": "001/24 D 018/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "DEFERASIROX",
+    "dci": "24 D 017",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "500MG",
+    "packaging": "B/30",
+    "registration_number": "KELOSIROX",
+    "code": "001/24 D 019/15/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TAMSULOSINE CHLORHYDRATE",
+    "dci": "25 B 047",
+    "form": "TAMSUMED LP",
+    "dosage": "0,4MG",
+    "packaging": "B/30",
+    "registration_number": "24 D 019",
+    "code": "426/25 B 047/12/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "OXYBUTYNINE CHLORHYDRATE",
+    "dci": "25 D 008",
+    "form": "COMPRIME SECABLE",
+    "dosage": "5MG",
+    "packaging": "B/60",
+    "registration_number": "MICROGRANULE EN GELLULE LIBERATION PROLONGEE",
+    "code": "378/25 D 008/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "NITROXOLINE",
+    "dci": "25 E 015",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "NEUROPLEX",
+    "registration_number": "OXYPTANE BR",
+    "code": "418/25 E 015/19/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CONCENTRE ACIDE POUR HEMODIALYSE",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "SOLUTION CONCENTREE POUR HEMODIALYSE",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "NEOBIOL",
+    "code": "280/25 G 088/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "25 G 089",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "RENACID A26",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "Bidon de 10L en PEHD",
+    "code": "280/25 G 089/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "25 G 090",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "RENACID A26",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.089g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.826g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.457g",
+    "code": "280/25 G 090/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "25 G 091",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "RENACID A28",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "RENACID A27",
+    "code": "280/25 G 091/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SILDENAFIL SOUS FORME DE CITRATE",
+    "dci": "25 N 045",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "50MG",
+    "packaging": "INAGRA",
+    "registration_number": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.089g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.457g",
+    "code": "426/25 N 045/12/22",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TADALAFIL",
+    "dci": "25 N 052",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "12 F 168",
+    "packaging": "TABLAFIL",
+    "registration_number": "B/02 ET B/10",
+    "code": "173/25 N 052/23",
+    "popularity": 10
+  },
+  {
+    "brand_name": "25 N 076",
+    "dci": "25 N 052",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/28",
+    "registration_number": "B/02 ET B/04",
+    "code": "426/25 N 076/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "TADALAFIL",
+    "dci": "25 N 052",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "ADONIS",
+    "code": "426/25 N 076/20",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SUCCINATE DE SOLIFENACINE",
+    "dci": "25 P 068",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "173/25 N 076/23",
+    "code": "173/25 P 068/16/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "352/25 P 068/20/25",
+    "dci": "25 P 068",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "SOLIFETAB",
+    "code": "173/25 P 068/16/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "301/25 P 068/20/25",
+    "dci": "25 P 068",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "registration_number": "VENACINE",
+    "code": "173/25 P 068/16/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "301/25 P 068/20/25",
+    "dci": "25 P 068",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "SOLIFENACINE VECO",
+    "code": "301/25 P 069/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "SUCCINATE DE SOLIFENACINE",
+    "dci": "25 P 068",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "registration_number": "25 P 069",
+    "code": "301/25 P 069/17/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "HYPOCHLORITE DE SODIUM (CHLORE ACTIF)",
+    "dci": "26 B 014",
+    "form": "DAKIN RPP",
+    "dosage": "SOL. USAGE EXTERNE",
+    "packaging": "0,5% DE CHLORE ACTIF",
+    "registration_number": "173/25 P 069/16/24",
+    "code": "314/26 B 014/04/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "26 G 092",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "RENACID G25",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "FL/500ML",
+    "code": "280/26 G 092/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "26 G 093",
+    "dci": "25 G 088",
+    "form": "RENACID A25",
+    "dosage": "RENACID G26",
+    "packaging": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.617g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.991g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.915g",
+    "registration_number": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.089g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.992g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.457g\nGlucose…………………4,5G",
+    "code": "280/26 G 093/25",
+    "popularity": 10
+  },
+  {
+    "brand_name": "ECULIZUMAB",
+    "dci": "27 A 013",
+    "form": "ECULIZUMAB SAIDAL",
+    "dosage": "SOLUTION A DILUER POUR PERFUSION",
+    "packaging": "10MG/ML (300MG/30ML)",
+    "registration_number": "100 ml de solution Chlorure de Sodium (NaCl)….. 27.089g\nChlorure de Potassium (KCl) …….. 0.671g\n Chlorure de Calcium dihydratE (CaCl₂, 2H₂O) …… 0.827g\nChlorure de magnEsium hexahydratE (MgCl₂, 6H₂O) … 0.457g\nGlucose…………………4,95G",
+    "code": "003/27 A 013/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "CITRATE DE TOFACITINIB",
+    "dci": "27 C 007",
+    "form": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+    "dosage": "TOFATINIB",
+    "packaging": "B/28",
+    "registration_number": "B/01 FLACON 30ML",
+    "code": "263/27 C 007/24",
+    "popularity": 10
+  },
+  {
+    "brand_name": "AUGMENTIN 1g/125mg",
+    "dci": "AMOXICILLINE / ACIDE CLAVULANIQUE",
+    "form": "POUDRE POUR SUSPENSION BUVABLE EN SACHET DOSE",
+    "dosage": "1G/125MG",
+    "packaging": "B/14",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "AUGMENTIN 500mg/62.5mg",
+    "dci": "AMOXICILLINE / ACIDE CLAVULANIQUE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "500MG/62,5MG",
+    "packaging": "B/16",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "AUGMENTIN ENFANT 100mg/12.5mg/ml",
+    "dci": "AMOXICILLINE / ACIDE CLAVULANIQUE",
+    "form": "POUDRE POUR SUSPENSION BUVABLE EN FLACON",
+    "dosage": "100MG/12,5MG/ML",
+    "packaging": "B/1 FLACON",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "AMOXICILLINE 500mg",
+    "dci": "AMOXICILLINE",
+    "form": "GELULE",
+    "dosage": "500MG",
+    "packaging": "B/24",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "AMOXICILLINE 1g",
+    "dci": "AMOXICILLINE",
+    "form": "COMPRIME DISPERSIBLE",
+    "dosage": "1000MG",
+    "packaging": "B/14",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "CLAMOXYL 500mg",
+    "dci": "AMOXICILLINE",
+    "form": "GELULE",
+    "dosage": "500MG",
+    "packaging": "B/16",
+    "popularity": 990
+  },
+  {
+    "brand_name": "CLAMOXYL 1g",
+    "dci": "AMOXICILLINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "1G",
+    "packaging": "B/14",
+    "popularity": 990
+  },
+  {
+    "brand_name": "ZINNAT 250mg",
+    "dci": "CEFUROXIME AXETIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "250MG",
+    "packaging": "B/10",
+    "popularity": 980
+  },
+  {
+    "brand_name": "ZINNAT 500mg",
+    "dci": "CEFUROXIME AXETIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/10",
+    "popularity": 980
+  },
+  {
+    "brand_name": "OFLOCET 200mg",
+    "dci": "OFLOXACINE",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "200MG",
+    "packaging": "B/10",
+    "popularity": 950
+  },
+  {
+    "brand_name": "CIPROFLOXACINE 500mg",
+    "dci": "CIPROFLOXACINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/10",
+    "popularity": 950
+  },
+  {
+    "brand_name": "FLAGYL 500mg",
+    "dci": "METRONIDAZOLE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/20",
+    "popularity": 980
+  },
+  {
+    "brand_name": "FLAGYL 250mg",
+    "dci": "METRONIDAZOLE",
+    "form": "COMPRIME",
+    "dosage": "250MG",
+    "packaging": "B/20",
+    "popularity": 970
+  },
+  {
+    "brand_name": "BACTRIM FORTE",
+    "dci": "SULFAMETHOHAZOLE / TRIMETHOPRIME",
+    "form": "COMPRIME",
+    "dosage": "800MG/160MG",
+    "packaging": "B/10",
+    "popularity": 950
+  },
+  {
+    "brand_name": "SPASFON",
+    "dci": "PHLOROGLUCINOL",
+    "form": "COMPRIME ENROBE",
+    "dosage": "80MG",
+    "packaging": "B/30",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "SPASFON LYOC",
+    "dci": "PHLOROGLUCINOL",
+    "form": "LYOPHILISAT ORAL",
+    "dosage": "80MG",
+    "packaging": "B/10",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "VOLTARENE 50mg",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "COMPRIME GASTRO-RESISTANT",
+    "dosage": "50MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "VOLTARENE 75mg",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "75MG/3ML",
+    "packaging": "B/5 AMPOULES",
+    "popularity": 990
+  },
+  {
+    "brand_name": "VOLTARENE 100mg",
+    "dci": "DICLOFENAC SODIQUE",
+    "form": "SUPPOSITOIRE",
+    "dosage": "100MG",
+    "packaging": "B/10",
+    "popularity": 980
+  },
+  {
+    "brand_name": "PROFENID 100mg",
+    "dci": "KETOPROFENE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "popularity": 980
+  },
+  {
+    "brand_name": "PROFENID 200mg",
+    "dci": "KETOPROFENE",
+    "form": "GELULE A LIBERATION PROLONGEE",
+    "dosage": "200MG",
+    "packaging": "B/14",
+    "popularity": 980
+  },
+  {
+    "brand_name": "ASPEGIC 100mg",
+    "dci": "ACETYLSALICYLATE DE DL-LYSINE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET",
+    "dosage": "100MG",
+    "packaging": "B/20",
+    "popularity": 990
+  },
+  {
+    "brand_name": "ASPEGIC 500mg",
+    "dci": "ACETYLSALICYLATE DE DL-LYSINE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET",
+    "dosage": "500MG",
+    "packaging": "B/20",
+    "popularity": 990
+  },
+  {
+    "brand_name": "ASPEGIC 1000mg",
+    "dci": "ACETYLSALICYLATE DE DL-LYSINE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET",
+    "dosage": "1000MG",
+    "packaging": "B/20",
+    "popularity": 990
+  },
+  {
+    "brand_name": "KARDEGIC 75mg",
+    "dci": "ACETYLSALICYLATE DE DL-LYSINE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET",
+    "dosage": "75MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "KARDEGIC 160mg",
+    "dci": "ACETYLSALICYLATE DE DL-LYSINE",
+    "form": "POUDRE POUR SOLUTION BUVABLE EN SACHET",
+    "dosage": "160MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "PLAVIX 75mg",
+    "dci": "CLOPIDOGREL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "75MG",
+    "packaging": "B/28",
+    "popularity": 980
+  },
+  {
+    "brand_name": "INEXIUM 20mg",
+    "dci": "ESOMEPRAZOLE",
+    "form": "COMPRIME GASTRO-RESISTANT",
+    "dosage": "20MG",
+    "packaging": "B/14",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "INEXIUM 40mg",
+    "dci": "ESOMEPRAZOLE",
+    "form": "COMPRIME GASTRO-RESISTANT",
+    "dosage": "40MG",
+    "packaging": "B/14",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "OMEPRAZOLE 20mg",
+    "dci": "OMEPRAZOLE",
+    "form": "GELULE GASTRO-RESISTANTE",
+    "dosage": "20MG",
+    "packaging": "B/28",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "GAVISCON",
+    "dci": "ALGINATE DE SODIUM / BICARBONATE DE SODIUM",
+    "form": "SUSPENSION BUVABLE EN SACHET",
+    "dosage": "500MG/267MG",
+    "packaging": "B/24",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "SMECTA",
+    "dci": "DIOSMECTITE",
+    "form": "POUDRE POUR SUSPENSION BUVABLE",
+    "dosage": "3G",
+    "packaging": "B/30",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "DEBRIDAT",
+    "dci": "TRIMEBUTINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "100MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "PRIMPERAN 10mg",
+    "dci": "METOCLOPRAMIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/40",
+    "popularity": 980
+  },
+  {
+    "brand_name": "VOGALENE 15mg",
+    "dci": "METOPIMAZINE",
+    "form": "GELULE",
+    "dosage": "15MG",
+    "packaging": "B/20",
+    "popularity": 980
+  },
+  {
+    "brand_name": "SOLUPRED 20mg",
+    "dci": "PREDNISOLONE",
+    "form": "COMPRIME EFFERVESCENT",
+    "dosage": "20MG",
+    "packaging": "B/20",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "SOLUPRED 5mg",
+    "dci": "PREDNISOLONE",
+    "form": "COMPRIME ORODISPERSIBLE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "CELESTENE 2mg",
+    "dci": "BETAMETHASONE",
+    "form": "COMPRIME EFFERVESCENT SECABLE",
+    "dosage": "2MG",
+    "packaging": "B/20",
+    "popularity": 990
+  },
+  {
+    "brand_name": "CELESTENE GOUTTES",
+    "dci": "BETAMETHASONE",
+    "form": "SOLUTION BUVABLE EN GOUTTES",
+    "dosage": "0,05%",
+    "packaging": "B/1 FLACON DE 30ML",
+    "popularity": 990
+  },
+  {
+    "brand_name": "VENTOLINE 100mcg",
+    "dci": "SALBUTAMOL",
+    "form": "SUSPENSION POUR INHALATION EN FLACON PRESSURISE",
+    "dosage": "100MCG/DOSE",
+    "packaging": "B/1 FLACON DE 200 DOSES",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "SERETIDE DISKUS 250mcg",
+    "dci": "SALMETEROL / FLUTICASONE",
+    "form": "POUDRE POUR INHALATION",
+    "dosage": "50MCG/250MCG",
+    "packaging": "B/1 DISKUS DE 60 DOSES",
+    "popularity": 980
+  },
+  {
+    "brand_name": "MAXILASE ENFANT",
+    "dci": "ALPHA-AMYLASE",
+    "form": "SIROP",
+    "dosage": "2000U CEIP/ML",
+    "packaging": "B/1 FLACON DE 200ML",
+    "popularity": 980
+  },
+  {
+    "brand_name": "TOPLEXIL",
+    "dci": "OXOMEMAZINE",
+    "form": "SIROP SANS SUCRE",
+    "dosage": "0,33MG/ML",
+    "packaging": "B/1 FLACON DE 150ML",
+    "popularity": 990
+  },
+  {
+    "brand_name": "GLUCOPHAGE 1000mg",
+    "dci": "METFORMINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "1000MG",
+    "packaging": "B/30",
+    "popularity": 1000
+  },
+  {
+    "brand_name": "GLUCOPHAGE 850mg",
+    "dci": "METFORMINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "850MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "GLUCOPHAGE 500mg",
+    "dci": "METFORMINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "500MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "AMAREL 2mg",
+    "dci": "GLIMEPIRIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "2MG",
+    "packaging": "B/30",
+    "popularity": 970
+  },
+  {
+    "brand_name": "AMAREL 3mg",
+    "dci": "GLIMEPIRIDE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "3MG",
+    "packaging": "B/30",
+    "popularity": 970
+  },
+  {
+    "brand_name": "LANTUS SOLOSTAR",
+    "dci": "INSULINE GLARGINE",
+    "form": "SOLUTION INJECTABLE EN STYLO PREREMPLI",
+    "dosage": "100U/ML",
+    "packaging": "B/5 STYLOS DE 3ML",
+    "popularity": 980
+  },
+  {
+    "brand_name": "LEVOTHYROX 50mcg",
+    "dci": "LEVOTHYROXINE SODIQUE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "50MCG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "LEVOTHYROX 100mcg",
+    "dci": "LEVOTHYROXINE SODIQUE",
+    "form": "COMPRIME SECABLE",
+    "dosage": "100MCG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "COVERSYL 5mg",
+    "dci": "PERINDOPRIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "5MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "COVERSYL 10mg",
+    "dci": "PERINDOPRIL",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/30",
+    "popularity": 990
+  },
+  {
+    "brand_name": "APROVEL 150mg",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "150MG",
+    "packaging": "B/28",
+    "popularity": 980
+  },
+  {
+    "brand_name": "APROVEL 300mg",
+    "dci": "IRBESARTAN",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG",
+    "packaging": "B/28",
+    "popularity": 980
+  },
+  {
+    "brand_name": "COAPROVEL 300mg/12.5mg",
+    "dci": "IRBESARTAN / HYDROCHLOROTHIAZIDE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "300MG/12.5MG",
+    "packaging": "B/28",
+    "popularity": 980
+  },
+  {
+    "brand_name": "TAHOR 10mg",
+    "dci": "ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "popularity": 990
+  },
+  {
+    "brand_name": "TAHOR 20mg",
+    "dci": "ATORVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "20MG",
+    "packaging": "B/28",
+    "popularity": 990
+  },
+  {
+    "brand_name": "CRESTOR 10mg",
+    "dci": "ROSUVASTATINE",
+    "form": "COMPRIME PELLICULE",
+    "dosage": "10MG",
+    "packaging": "B/28",
+    "popularity": 990
+  },
+  {
+    "brand_name": "LOVENOX 4000 UI",
+    "dci": "ENOXAPARINE SODIQUE",
+    "form": "SOLUTION INJECTABLE EN SERINGUE PREREMPLIE",
+    "dosage": "4000 UI (0,4ML)",
+    "packaging": "B/6 SERINGUES",
+    "popularity": 980
+  },
+  {
+    "brand_name": "LOVENOX 6000 UI",
+    "dci": "ENOXAPARINE SODIQUE",
+    "form": "SOLUTION INJECTABLE EN SERINGUE PREREMPLIE",
+    "dosage": "6000 UI (0,6ML)",
+    "packaging": "B/6 SERINGUES",
+    "popularity": 980
+  },
+  {
+    "brand_name": "LEXOMIL 6mg",
+    "dci": "BROMAZEPAM",
+    "form": "COMPRIME QUADRISECABLE",
+    "dosage": "6MG",
+    "packaging": "B/30",
+    "popularity": 980
+  },
+  {
+    "brand_name": "XANAX 0.50mg",
+    "dci": "ALPRAZOLAM",
+    "form": "COMPRIME SECABLE",
+    "dosage": "0,50MG",
+    "packaging": "B/30",
+    "popularity": 980
+  },
+  {
+    "brand_name": "STILNOX 10mg",
+    "dci": "ZOLPIDEM",
+    "form": "COMPRIME PELLICULE SECABLE",
+    "dosage": "10MG",
+    "packaging": "B/14",
+    "popularity": 970
+  },
+  {
+    "brand_name": "VALIUM 10mg",
+    "dci": "DIAZEPAM",
+    "form": "SOLUTION INJECTABLE",
+    "dosage": "10MG/2ML",
+    "packaging": "B/6 AMPOULES",
+    "popularity": 960
+  },
+  {
+    "brand_name": "FUCIDINE 2%",
+    "dci": "ACIDE FUSIDIQUE",
+    "form": "CREME",
+    "dosage": "2%",
+    "packaging": "B/1 TUBE DE 15G",
+    "popularity": 990
+  },
+  {
+    "brand_name": "BIAFINE",
+    "dci": "TROLAMINE",
+    "form": "EMULSION POUR APPLICATION CUTANEE",
+    "dosage": "0,67G/100G",
+    "packaging": "B/1 TUBE DE 186G",
+    "popularity": 990
+  }
+]
