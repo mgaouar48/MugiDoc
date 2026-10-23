@@ -1,0 +1,243 @@
+dans nouvelle consultation enlever patient anonyme
+
+
+en faisant une consultation, je veux que le statut se mette a jour automatiquement apres avoir fini la consultation sans devoir la changer sois meme
+
+
+dans la modification de l'heure de consultation je veux qu'elle prenne autoatiquement l'heure actuelle et amelire la liste des choix des heures
+
+dans la creation d'un patient ajoute groupe sanguin, et maladies chroniques si non dispo
+
+et quand on fais une consultation de ce patient je veux pouvoir voir la derniere consultation effectue par ce dernier (je veux que dans la consultation il y'aie une entete patient avec nom, prenom,SEXE,age,poids avec possibilite de mettre a jour , derniere consultation et bouton qui dirige vers le dossier de ce patient si vide il montre une page vide avec ecrit dossier vide)
+
+motif de consultation, ajout des motifs predefinis recurrents
+
+ajout d'une section parametres vitaux avec valeur ( champs optionnels ): poids,taille,imc,temperature,tension arterielle ,frequence cardiaque,SpO2,frequence respiratoire,glycemie (avec calcul automatique de l'imc et signalement des valeurs anormales)
+
+ajouter aussi un grand champs sturcture : anamnese/interrogatoire : histoire de la maladie :
+
+date de deut, symptomes,evolution,facteurs aggravants,traitement deja pris,antecedents lies au probleme , champ libre : observations /interrogatoire
+
+section examen clinique avec texte llibre + des sous sections qui peuvent etre choisis un par un en appuyant sur le bouton "+ ajouter un examen" sous sections : examen general,cardiovasculaire,respiratoire,abdominal,neurologique,orl,dermatologique (AVEC DES CASES PERINENTES A COCHER POUR CHACUN OU UNE CASE A COCHER AUTRE AVEC TEXTE LIBRE)et rajoute d'autres sous sections pertinents
+
+
+SECTION DIAGNOSTIC : diagnostic principal
+			-recherche de diagnostic
+			-code CIM-10 optionnel
+			-diagnostic selectionne
+		     diagnostic secondaire :
+			exemple : 
+			diagnosti principal : bronchite aigue
+			code : j20.9
+			bouton : ajouter diagnostique
+
+section traitement/prescription : 
+	clique : +ajouter un medicament
+			-medicament
+			-dosage
+			-forme
+			-posologie
+			-frequence	
+			-duree
+			-quantite
+			-instructions
+exemple : amoxicilline 1g
+          1 comprime --3fois/jour --7jours
+
+ajouter recherche intelligente des medicaments avoir repertoire national des medicaments en algerie complet , exemple : amoxi…
+						->amoxicilline 500mg
+						->amoxicilline 1g
+						->etc
+le medecin selectionne et la prescription est automatiquement structuree
+
+
+section examen complementaires : bouton +demander un examen 
+categories : analyses biologiques
+imagerie
+ecg
+echographie
+scanner
+IRM
+Autre
+avec possibilite d'ajouter une indication : NFS,CRP -- recherche syndorme infectieux
+
+
+
+
+section documents : ordonnance,certificat medical,demande s'analyses,demande d'imgerie,compe rendu de consultation,arret de travail,lettre d'orientation
+
+section plan/conduite a tenir:
+
+traitement symptomatique + hydratation
+repos 5 jours
+controle dan 7 jours 
+
+puis prochain rendez vous : 02/09/2026 a 10:30 
+avec un bouton : planifier un rendez vous
+
+
+section historique du patient : sur la droite mettre un panneau :
+
+historique : 
+
+26/08/2026-- consultation
+
+fievre + toux 
+diagnostic : bronchite aigue
+
+12/08/2026-- consultation
+
+douleur abdominale
+
+le medecin peut cliquer sur une ancienne consultation et voir son contenu
+
+
+barre fix en bas ou en haut selon l'optimalite : enregistrer brouillon,terminer consultation,generer ordonnance,certificat,examens,facturer
+
+
+
+✅ Terminer la consultation
+
+Une fois terminé, MugiDoc peut :
+
+enregistrer la consultation ;
+enregistrer le diagnostic ;
+enregistrer les prescriptions ;
+enregistrer les documents ;
+éventuellement générer la facture ;
+proposer le prochain rendez-vous.
+
+
+
+
+12. Le parcours idéal du médecin
+
+Le workflow global devrait être quelque chose comme :
+
+Patients
+
+↓
+
+Sélection du patient
+
+↓
+
+Dossier patient
+
+↓
+
+Nouvelle consultation
+
+↓
+
+Motif → Anamnèse → Constantes → Examen clinique → Diagnostic → Traitement
+
+↓
+
+Actions
+
+→ Ordonnance
+→ Analyses
+→ Certificat
+→ Imagerie
+→ Facturation
+→ Rendez-vous suivant
+
+↓
+
+Terminer la consultation
+
+↓
+
+Historique du patient mis à jour
+
+                    PATIENT
+                       │
+                       ▼
+                DOSSIER PATIENT
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+  Consultations    Documents       Historique
+        │
+        ▼
+  NOUVELLE CONSULTATION
+        │
+        ├── Motif
+        ├── Constantes
+        ├── Anamnèse
+        ├── Examen clinique
+        ├── Diagnostic
+        ├── Prescription
+        ├── Examens
+        └── Notes
+                │
+                ▼
+          VALIDER LA CONSULTATION
+                │
+       ┌────────┼─────────┐
+       ▼        ▼         ▼
+   Ordonnance  Certificat  Examens
+       │
+       ▼
+  DOSSIER PATIENT MIS À JOUR
+
+
+
+
+Pour MugiDoc, je ferais même une chose supplémentaire
+
+La consultation devrait avoir un résumé permanent à droite :
+
+PATIENT
+Mohamed Gaouar
+21 ans
+
+ALERTES
+⚠️ Allergie pénicilline
+
+CONSULTATION
+Motif : Fièvre + toux
+TA : 120/80
+Temp : 38,2°C
+
+DIAGNOSTIC
+Bronchite aiguë
+
+TRAITEMENT
+2 médicaments
+
+DOCUMENTS
+📄 Ordonnance
+📄 Compte rendu
+
+SUIVI
+📅 Contrôle : 02/09
+
+Cela donne au médecin une vue synthétique de toute la consultation sans devoir scroller constamment.
+
+Et surtout, pour une application professionnelle, je privilégierais des champs structurés + texte libre, plutôt qu'une énorme page remplie de champs. Le médecin doit pouvoir faire une consultation en quelques minutes et retrouver immédiatement les informations importantes.
+
+
+
+Le principe UX à retenir
+
+Le médecin doit pouvoir faire 80 % de son travail depuis cette seule interface.
+
+Il ne devrait pas avoir à faire :
+
+Consultation → Patients → Prescription → revenir → Certificats → revenir → Facturation
+
+Ça casse complètement le workflow.
+
+Il vaut mieux avoir dans la consultation une barre d'actions :
+
+💾 Enregistrer | 💊 Prescription | 🧪 Examens | 📄 Certificat | 💰 Facturer | ✓ Terminer
+
+Et une fois la consultation terminée, tout est automatiquement rattaché au dossier du patient.
+
+
+
+
+
+directive importante : NE PAS SURCHARGER L'ECRAN 

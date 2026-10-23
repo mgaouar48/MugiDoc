@@ -1,0 +1,200 @@
+[
+  {
+    "id": "penicillines",
+    "label": "Pénicillines",
+    "allergyAliases": ["penicilline", "penicillines", "beta-lactamine", "beta lactamine", "betalactamine", "amoxicilline", "ampicilline", "augmentin", "clamoxyl"],
+    "dciStems": ["amoxicilline", "ampicilline", "cloxacilline", "oxacilline", "penicilline", "benzathine", "piperacilline", "ticarcilline", "bacampicilline"],
+    "dciPatterns": ["cilline"],
+    "crossReactsWith": ["cephalosporines", "carbapenemes"],
+    "crossReactionNote": "Réaction croisée possible entre pénicillines et céphalosporines (~1–3 %)"
+  },
+  {
+    "id": "cephalosporines",
+    "label": "Céphalosporines",
+    "allergyAliases": ["cephalosporine", "cephalosporines", "cefalosporine", "beta-lactamine", "beta lactamine", "betalactamine"],
+    "dciStems": ["cefalexine", "cefelaxine", "cefazoline", "cefixime", "ceftriaxone", "cefotaxime", "cefaclor", "cafaclor", "cefuroxime", "ceftazidime", "cefpodoxime", "cefadroxil", "cefepime", "cefamandole", "cefsulodine", "ceftizoxime"],
+    "dciPatterns": ["^cef", "^ceph"],
+    "crossReactsWith": ["penicillines", "carbapenemes"],
+    "crossReactionNote": "Réaction croisée possible avec les pénicillines (~1–3 %)"
+  },
+  {
+    "id": "carbapenemes",
+    "label": "Carbapénèmes",
+    "allergyAliases": ["carbapeneme", "carbapenemes"],
+    "dciStems": ["imipeneme", "meropeneme", "ertapeneme", "doripeneme"],
+    "dciPatterns": ["peneme"],
+    "crossReactsWith": ["penicillines", "cephalosporines"],
+    "crossReactionNote": "Réaction croisée possible avec les autres bêta-lactamines"
+  },
+  {
+    "id": "sulfamides_antibacteriens",
+    "label": "Sulfamides antibactériens",
+    "allergyAliases": ["sulfamide", "sulfamides", "sulfamide antibacterien", "sulfamides antibacteriens", "bactrim", "cotrimoxazole", "sulfamethoxazole"],
+    "dciStems": ["sulfamethoxazole", "sulfadiazine", "sulfasalazine", "sulfaguanidine", "trimethoprime"],
+    "dciPatterns": [],
+    "crossReactsWith": ["sulfamides_hypoglycemiants"],
+    "crossReactionNote": "Réaction croisée avec les sulfamides hypoglycémiants controversée et probablement faible"
+  },
+  {
+    "id": "quinolones",
+    "label": "Quinolones / fluoroquinolones",
+    "allergyAliases": ["quinolone", "quinolones", "fluoroquinolone", "fluoroquinolones"],
+    "dciStems": ["ciprofloxacine", "ciorofloxacine", "ofloxacine", "levofloxacine", "norfloxacine", "moxifloxacine", "pefloxacine", "peflocacine", "acide nalidixique"],
+    "dciPatterns": ["floxacine"],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "macrolides",
+    "label": "Macrolides",
+    "allergyAliases": ["macrolide", "macrolides", "erythromycine", "azithromycine"],
+    "dciStems": ["erythromycine", "clarithromycine", "azithromycine", "spiramycine", "josamycine", "roxithromycine", "midecamycine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "aminosides",
+    "label": "Aminosides",
+    "allergyAliases": ["aminoside", "aminosides", "aminoglycoside", "aminoglycosides", "gentamicine", "neomycine"],
+    "dciStems": ["gentamicine", "amikacine", "streptomycine", "tobramycine", "neomycine", "kanamycine", "netilmicine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "tetracyclines",
+    "label": "Cyclines",
+    "allergyAliases": ["cycline", "cyclines", "tetracycline", "tetracyclines", "doxycycline"],
+    "dciStems": ["tetracycline", "doxycycline", "minocycline", "oxytetracycline", "chlortetracycline"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "glycopeptides",
+    "label": "Glycopeptides",
+    "allergyAliases": ["glycopeptide", "glycopeptides", "vancomycine"],
+    "dciStems": ["vancomycine", "teicoplanine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "nitroimidazoles",
+    "label": "Nitro-imidazolés",
+    "allergyAliases": ["metronidazole", "nitro-imidazole", "nitroimidazole"],
+    "dciStems": ["metronidazole", "tinidazole", "secnidazole", "ornidazole"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "ains",
+    "label": "Anti-inflammatoires non stéroïdiens (AINS)",
+    "allergyAliases": ["ains", "anti-inflammatoire", "anti inflammatoire", "antiinflammatoire", "ibuprofene", "diclofenac", "voltarene"],
+    "dciStems": ["ibuprofene", "diclofenac", "ketoprofene", "naproxene", "piroxicam", "indometacine", "celecoxib", "meloxicam", "acide niflumique", "acide mefenamique", "nimesulide", "tenoxicam", "acide tiaprofenique", "flurbiprofene", "etodolac"],
+    "dciPatterns": [],
+    "crossReactsWith": ["salicyles"],
+    "crossReactionNote": "Réaction croisée fréquente entre AINS et aspirine"
+  },
+  {
+    "id": "salicyles",
+    "label": "Salicylés / aspirine",
+    "allergyAliases": ["aspirine", "aspegic", "salicyle", "salicyles", "acide acetylsalicylique"],
+    "dciStems": ["acetylsalicyl", "acetylsalicytique", "salicylate", "salicylamide", "subsalicylate"],
+    "dciPatterns": [],
+    "crossReactsWith": ["ains"],
+    "crossReactionNote": "Réaction croisée fréquente entre aspirine et AINS"
+  },
+  {
+    "id": "paracetamol",
+    "label": "Paracétamol",
+    "allergyAliases": ["paracetamol", "doliprane", "efferalgan"],
+    "dciStems": ["paracetamol"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "pyrazoles",
+    "label": "Pyrazolés",
+    "allergyAliases": ["pyrazole", "pyrazoles", "noramidopyrine", "metamizole"],
+    "dciStems": ["noramidopyrine", "metamizole", "phenylbutazone"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "opiaces",
+    "label": "Opiacés",
+    "allergyAliases": ["opiace", "opiaces", "morphine", "codeine", "tramadol", "opioide"],
+    "dciStems": ["morphine", "codeine", "tramadol", "fentanyl", "oxycodone", "pethidine", "buprenorphine", "nalbuphine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "iode_contraste",
+    "label": "Iode / produits de contraste iodés",
+    "allergyAliases": ["iode", "produit de contraste", "produits de contraste", "contraste", "iodure"],
+    "dciStems": ["iohexol", "iopamidol", "ioversol", "amidotrizoate", "ioxitalamate", "iobitridol", "iopromide", "povidone iodee"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "anesthesiques_locaux",
+    "label": "Anesthésiques locaux",
+    "allergyAliases": ["anesthesique local", "anesthesiques locaux", "lidocaine", "xylocaine", "procaine"],
+    "dciStems": ["lidocaine", "bupivacaine", "procaine", "articaine", "mepivacaine", "ropivacaine", "tetracaine", "benzocaine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "heparines",
+    "label": "Héparines",
+    "allergyAliases": ["heparine", "heparines", "hbpm"],
+    "dciStems": ["heparine", "enoxaparine", "nadroparine", "tinzaparine", "dalteparine", "fondaparinux"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  },
+  {
+    "id": "antiepileptiques_aromatiques",
+    "label": "Antiépileptiques aromatiques",
+    "allergyAliases": ["carbamazepine", "phenytoine", "lamotrigine", "antiepileptique"],
+    "dciStems": ["carbamazepine", "phenytoine", "phenobarbital", "lamotrigine", "oxcarbazepine"],
+    "dciPatterns": [],
+    "crossReactsWith": [],
+    "crossReactionNote": "Réactions croisées possibles entre antiépileptiques aromatiques (syndrome d'hypersensibilité)"
+  },
+  {
+    "id": "sulfamides_hypoglycemiants",
+    "label": "Sulfamides hypoglycémiants",
+    "allergyAliases": ["sulfamide hypoglycemiant", "sulfamides hypoglycemiants", "glibenclamide", "gliclazide"],
+    "dciStems": ["glibenclamide", "gliclazide", "glimepiride", "glipizide"],
+    "dciPatterns": [],
+    "crossReactsWith": ["sulfamides_antibacteriens"],
+    "crossReactionNote": "Réaction croisée avec les sulfamides antibactériens controversée et probablement faible"
+  },
+  {
+    "id": "iec",
+    "label": "Inhibiteurs de l'enzyme de conversion (IEC)",
+    "allergyAliases": ["iec", "inhibiteur de l'enzyme de conversion", "captopril", "enalapril", "ramipril"],
+    "dciStems": ["captopril", "enalapril", "lisinopril", "ramipril", "perindopril", "quinapril", "benazepril", "fosinopril", "trandolapril"],
+    "dciPatterns": ["pril$"],
+    "crossReactsWith": [],
+    "crossReactionNote": "Antécédent d'angio-œdème sous IEC : contre-indication à toute la classe"
+  },
+  {
+    "id": "statines",
+    "label": "Statines",
+    "allergyAliases": ["statine", "statines"],
+    "dciStems": ["simvastatine", "atorvastatine", "pravastatine", "rosuvastatine", "fluvastatine", "lovastatine"],
+    "dciPatterns": ["statine"],
+    "crossReactsWith": [],
+    "crossReactionNote": null
+  }
+]
